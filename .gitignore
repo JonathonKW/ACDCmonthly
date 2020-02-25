@@ -1,0 +1,8 @@
+# .gitignore
+
+#Don't add the venv, IDE and Jupyter (just in case, I'm not currently using jupyter)
+
+venv
+.idea
+.ipynb_checkpoints
+Write-up.ipynb
