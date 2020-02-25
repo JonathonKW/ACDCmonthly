@@ -9,7 +9,20 @@ env = Environment(
     loader=FileSystemLoader(searchpath="templates")
 )
 
-template = env.get_template("report.html")
+# Adding templates to the program
+base_template = env.get_template("report.html")
+table_section_template = env.get_template("table_section.html")
+
+# Adding content to be published
+title = "Model Report"
+sections = list()
+sections.append(table_section_template.render(model="ModelTitle?",
+dataset="Results.csv", table="table"))
+
+sections.append(table_section_template.render(model="Model22", dataset="dataset2.csv", table="Table2!!!!"))
+
+
+
 
 def main():
     # Entry point for script
@@ -19,7 +32,7 @@ def main():
     with open("outputs/report.html", "w") as f:
 
         # Here we link the template to our code
-        f.write(template.render(content=content))
+        f.write(base_template.render(title=title, sections=sections))
 
 if __name__ == "__main__":
     main()
