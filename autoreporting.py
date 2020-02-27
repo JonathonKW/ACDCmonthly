@@ -81,11 +81,13 @@ def main():
 
     # Adding content to be published
     title = "Model Report"
+    belle_river = PlantResults("Belle River", "datasets/annual_data.csv")
     sections = list()
     sections.append(table_section_template.render(model="ModelTitle?",
     dataset="Results.csv", table=csv_to_html("datasets/annual_data1.csv")))
 
     sections.append(table_section_template.render(model="Model22", dataset="dataset2.csv", table="Table2!!!!"))
+
 
     with open("outputs/report.html", "w") as f:
 
