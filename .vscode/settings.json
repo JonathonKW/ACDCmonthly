@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\ACDC Eng Laptop\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
