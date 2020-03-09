@@ -1,2 +1,1 @@
-plant_id,portfolio,month,year,MW_gen,pv_syst,irradiance,pv_irradiance,weather_adj,Unnamed: 9,Unnamed: 10
-44,5,1,2020,10.98,15.9,43.15,51.4,11.57,,
+plant_id,month,year,Source,Generation

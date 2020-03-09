@@ -29,18 +29,19 @@ class PlantResults:
 
         self.dataset = os.path.split(filepath)[-1]
         self.df_results = csv_to_df(filepath)
-        # self.graph = self.make_graph(filepath)
-
+        
         #self.table = 
 
-    def make_graph(self, filepath):
+    def self_graph(self):
 
         plt.figure(figsize=(10,8))
-        sns.lineplot(x="month",y="MW_gen",data=self.dataset)
-        sns.lineplot(x="month",y="PV_syst",data=self.dataset)
-        sns.lineplot(x="month",y="weather_adj",data=self.dataset)
+        sns.lineplot(x=self.df_results['month'],y=self.df_results["Generation"],hue=self.df_results["Source"],data=self.df_results)
+     
         fig_name = self.site_name + ".png"
-        plt.savefig(fig_name)
+        plt.savefig("./Outputs/" + fig_name)
+        plt.clf()
+        return fig_name
+        
         # img = Image.open(fig_name)
         # return img
 
@@ -58,6 +59,7 @@ class PlantResults:
 def split_csv(filepath, year):
    
     df = pd.read_csv(filepath)
+    df = pd.melt(df, id_vars=["plant_id","month","year"],value_vars=["MW_gen","weather_adj","pv_syst"],var_name="Source", value_name="Generation")
     number_sites = df['plant_id'].max()
     print(number_sites)
     for i in range(number_sites):
@@ -93,9 +95,17 @@ def main():
     # Entry point for script
     # Render a template, write to file
     # :return:
-    split_csv("datasets/annual_data1.csv", 2020)
+    split_csv("datasets/annual_data1.csv", 2019)
     # Adding content to be published
     title = "Model Report"
+
+    for i in range(len(site_names)):
+        
+        site_names[i] = PlantResults(site_names[i], "datasets/" + site_names[i] + ".csv")
+    
+    
+    
+    
     belle_river = PlantResults("Belle River", "datasets/Belle River.csv")
     renfrew = PlantResults("Renfrew", "datasets/Renfrew.csv")
     sections = list()
@@ -104,7 +114,7 @@ def main():
     sections.append(table_section_template.render(model=belle_river.site_name,
     dataset=belle_river.dataset, table=belle_river.csv_to_html()))
 
-    sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html()))
+    sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
 
 
     with open("outputs/report.html", "w") as f:
