@@ -13,17 +13,18 @@ sns.set_style("whitegrid")
 sns.set()
 
 splt_dict = {}
+months = ["Jan", "Feb", "March", "April", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"]
 site_names = ["Belle River", "Renfrew", "Earlton", "Verner", "Kearney", "Sturgeon Falls", "Simcoe", "Newburgh", "Tecumseh", "Oldcastle","Waterford","Pontypool", "Thunder Bay", "Cache Bay", "Thomasburg", "Brockville", "Dundalk", "McDonalds Corners","100 King","102 Arnold","110 Arnold","28 Mill","390 Thomas","462 Riverview","601 Canarctic","Carson Horse Arena","Carson Barns 4 & 6","Carson Sales Barn","Cornerview Dairy","Cranberry Creek","Kemptville Storage","200 Centennial","225 Centennial","42 Commerce Park","66 Hincks","131 Sheldon","1177 Franklin","1195 Franklin","1425 Bishop","101 Wayne Gretzky","1500 Victoria","127 Aviva","151 Aviva","256 Aviva","280 Aviva"]
 
 class PlantResults:
 
     splt_dict = {}
     site_names = ["Belle River", "Renfrew", "Earlton", "Verner", "Kearney", "Sturgeon Falls", "Simcoe", "Newburgh", "Tecumseh", "Oldcastle","Waterford","Pontypool", "Thunder Bay", "Cache Bay", "Thomasburg", "Brockville", "Dundalk", "McDonalds Corners","100 King","102 Arnold","110 Arnold","28 Mill","390 Thomas","462 Riverview","601 Canarctic","Carson Horse Arena","Carson Barns 4 & 6","Carson Sales Barn","Cornerview Dairy","Cranberry Creek","Kemptville Storage","200 Centennial","225 Centennial","42 Commerce Park","66 Hincks","131 Sheldon","1177 Franklin","1195 Franklin","1425 Bishop","101 Wayne Gretzky","1500 Victoria","127 Aviva","151 Aviva","256 Aviva","280 Aviva"]
-
+    
     def __init__(self, site_name, filepath):
         # site name is the full name of the site
         # filepath takes us to the csv
-        
+        self.months = months
         self.site_name = site_name
         self.filepath = filepath
 
@@ -34,9 +35,9 @@ class PlantResults:
 
     def self_graph(self):
 
-        plt.figure(figsize=(10,8))
+        plt.figure(figsize=(8,6))
         sns.lineplot(x=self.df_results['month'],y=self.df_results["Generation"],hue=self.df_results["Source"],data=self.df_results)
-     
+        plt.xticks(ticks=[1,2,3,4,5,6,7,8,9,10,11,12],labels=months)
         fig_name = self.site_name + ".png"
         plt.savefig("./Outputs/" + fig_name)
         plt.clf()
@@ -112,7 +113,7 @@ def main():
 
 
     sections.append(table_section_template.render(model=belle_river.site_name,
-    dataset=belle_river.dataset, table=belle_river.csv_to_html()))
+    dataset=belle_river.dataset, table=belle_river.csv_to_html(),graph=belle_river.self_graph()))
 
     sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
 
