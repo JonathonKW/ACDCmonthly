@@ -119,7 +119,7 @@ def main():
     #sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
 
 
-    with open("outputs/report.html", "w") as f:
+    with open("outputs/index.html", "w") as f:
 
         # Here we link the template to our code
         f.write(base_template.render(title=title, sections=sections))
@@ -130,5 +130,5 @@ if __name__ == "__main__":
     # This will only run when the script is executed
     # When a script is imported, name is not changed (or is changed to match the name of the new imported location idk)
     # When THIS script is run, __name__ will be __main__ because THIS script is the MAIN script in which it exists
-    # This is so we can define classes and fucntions (like csv_to_html above) here, and still use them in other scripts without having to rewrite them, but also without
+    # This is so we can define classes and functions (like csv_to_html above) here, and still use them in other scripts without having to rewrite them, but also without
     # having to run everything again
