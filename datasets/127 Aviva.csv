@@ -1,1 +1,7 @@
-plant_id,month,year,Source,Generation
+,plant_id,month,year,Source,Generation
+951,42,1,2020,MW_gen,4.96
+988,42,2,2020,MW_gen,9.61
+2023,42,1,2020,weather_adj,4.46
+2060,42,2,2020,weather_adj,
+3095,42,1,2020,pv_syst,6.4
+3132,42,2,2020,pv_syst,12.72

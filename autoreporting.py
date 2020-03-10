@@ -15,7 +15,7 @@ sns.set()
 splt_dict = {}
 months = ["Jan", "Feb", "March", "April", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"]
 site_names = ["Belle River", "Renfrew", "Earlton", "Verner", "Kearney", "Sturgeon Falls", "Simcoe", "Newburgh", "Tecumseh", "Oldcastle","Waterford","Pontypool", "Thunder Bay", "Cache Bay", "Thomasburg", "Brockville", "Dundalk", "McDonalds Corners","100 King","102 Arnold","110 Arnold","28 Mill","390 Thomas","462 Riverview","601 Canarctic","Carson Horse Arena","Carson Barns 4 & 6","Carson Sales Barn","Cornerview Dairy","Cranberry Creek","Kemptville Storage","200 Centennial","225 Centennial","42 Commerce Park","66 Hincks","131 Sheldon","1177 Franklin","1195 Franklin","1425 Bishop","101 Wayne Gretzky","1500 Victoria","127 Aviva","151 Aviva","256 Aviva","280 Aviva"]
-
+sites = pd.DataFrame(columns=None)
 class PlantResults:
 
     splt_dict = {}
@@ -36,11 +36,18 @@ class PlantResults:
     def self_graph(self):
 
         plt.figure(figsize=(8,6))
-        sns.lineplot(x=self.df_results['month'],y=self.df_results["Generation"],hue=self.df_results["Source"],data=self.df_results)
+
+        df = pd.DataFrame(self.df_results).reset_index()
+        sns.lineplot(x=df['month'],y=df["Generation"],hue=df["Source"],data=df)
+        print(self.site_name)
+        print(self.df_results)
+        #print(self.df_results['Generation'])
+        #print(self.df_results['Source'])
+        
         plt.xticks(ticks=[1,2,3,4,5,6,7,8,9,10,11,12],labels=months)
         fig_name = self.site_name + ".png"
         plt.savefig("./Outputs/" + fig_name)
-        plt.clf()
+        plt.close()
         return fig_name
         
         # img = Image.open(fig_name)
@@ -54,6 +61,7 @@ class PlantResults:
         html = self.df_results.to_html()
         return html
 
+    
 
            
 # Split functionality by site for the full dataset
@@ -62,13 +70,13 @@ def split_csv(filepath, year):
     df = pd.read_csv(filepath)
     df = pd.melt(df, id_vars=["plant_id","month","year"],value_vars=["MW_gen","weather_adj","pv_syst"],var_name="Source", value_name="Generation")
     number_sites = df['plant_id'].max()
-    print(number_sites)
+    #  print(number_sites)
     for i in range(number_sites):
-        current_data = df[(df['plant_id'] == i) & (df['year'] == year)]
-        name = site_names[i - 1]
+        current_data = df[(df['plant_id'] == (i + 1)) & (df['year'] == year)]
+        name = site_names[i]
         splt_dict[name] = current_data
         csv_name = "datasets/" + name + ".csv"
-        current_data.to_csv(csv_name, index=False)
+        current_data.to_csv(csv_name, index=True)
     return splt_dict
 
 
@@ -96,26 +104,19 @@ def main():
     # Entry point for script
     # Render a template, write to file
     # :return:
-    split_csv("datasets/annual_data1.csv", 2019)
+    split_csv("datasets/annual_data1.csv", 2020)
     # Adding content to be published
     title = "Model Report"
 
-    for i in range(len(site_names)):
-        
-        site_names[i] = PlantResults(site_names[i], "datasets/" + site_names[i] + ".csv")
-    
-    
-    
-    
-    belle_river = PlantResults("Belle River", "datasets/Belle River.csv")
-    renfrew = PlantResults("Renfrew", "datasets/Renfrew.csv")
     sections = list()
 
+    for i in range(len(site_names)):
+        
+        site = PlantResults(site_names[i], "datasets/" + site_names[i] + ".csv")
+        sections.append(table_section_template.render(model=site.site_name, dataset= site.dataset, table = site.csv_to_html(), graph = site.self_graph()))
+    
 
-    sections.append(table_section_template.render(model=belle_river.site_name,
-    dataset=belle_river.dataset, table=belle_river.csv_to_html(),graph=belle_river.self_graph()))
-
-    sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
+    #sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
 
 
     with open("outputs/report.html", "w") as f:
@@ -124,7 +125,7 @@ def main():
         f.write(base_template.render(title=title, sections=sections))
 
 if __name__ == "__main__":
-    split_csv('datasets/annual_data1.csv',2020)
+    
     main()
     # This will only run when the script is executed
     # When a script is imported, name is not changed (or is changed to match the name of the new imported location idk)
