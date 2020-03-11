@@ -35,14 +35,15 @@ class PlantResults:
 
     def self_graph(self):
 
+        # Function to pull site data, turn it into a graph and save it
+        # Will need to update this to function by month and year input, currently just pulls the available split data
+
+
         plt.figure(figsize=(8,6))
 
         df = pd.DataFrame(self.df_results).reset_index()
         sns.lineplot(x=df['month'],y=df["Generation"],hue=df["Source"],data=df)
-        print(self.site_name)
-        print(self.df_results)
-        #print(self.df_results['Generation'])
-        #print(self.df_results['Source'])
+        
         
         plt.xticks(ticks=[1,2,3,4,5,6,7,8,9,10,11,12],labels=months)
         fig_name = self.site_name + ".png"
@@ -50,9 +51,7 @@ class PlantResults:
         plt.close()
         return fig_name
         
-        # img = Image.open(fig_name)
-        # return img
-
+       
     def csv_to_html(self):
     # Return a csv in an html format
     # This is helpful for tables already formatted properly into the csv
@@ -69,6 +68,8 @@ def split_csv(filepath, year):
    
     df = pd.read_csv(filepath)
     df = pd.melt(df, id_vars=["plant_id","month","year"],value_vars=["MW_gen","weather_adj","pv_syst"],var_name="Source", value_name="Generation")
+    # Melts so that I can use lineplot hue to create multi-lined graphs for generation, weather and pv syst
+
     number_sites = df['plant_id'].max()
     #  print(number_sites)
     for i in range(number_sites):
@@ -118,7 +119,9 @@ def main():
 
     #sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
 
-
+    
+    # I'm still not sure how github pages works (it says they want an index.md but I don't know what that is or how to use it locally so I create
+    # this html file at the same time for my own preview purposes (hopefully this does not mess anything up on the deploy)
     with open("index.html", "w") as f:
 
         # Here we link the template to our code
