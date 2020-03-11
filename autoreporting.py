@@ -119,7 +119,7 @@ def main():
     #sections.append(table_section_template.render(model=renfrew.site_name, dataset=renfrew.dataset, table=renfrew.csv_to_html(), graph=renfrew.self_graph()))
 
 
-    with open("outputs/index.md", "w") as f:
+    with open("index.html", "w") as f:
 
         # Here we link the template to our code
         f.write(base_template.render(title=title, sections=sections))
