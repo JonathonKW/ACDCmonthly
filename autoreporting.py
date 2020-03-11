@@ -124,6 +124,11 @@ def main():
         # Here we link the template to our code
         f.write(base_template.render(title=title, sections=sections))
 
+    with open("index.md", "w") as f:
+
+        # Here we link the template to our code
+        f.write(base_template.render(title=title, sections=sections))
+
 if __name__ == "__main__":
     
     main()

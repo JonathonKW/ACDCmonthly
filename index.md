@@ -14,7 +14,7 @@
         
             <h2>Belle River - Model Results</h2>
 <p>Monthly Generation Results <i>'Belle River'</i>, as captured in file<i>'Belle River.csv'</i>.</p>
-<img src="Belle River.png" alt="bad image">
+<img src="./Outputs/Belle River.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -80,7 +80,7 @@
         
             <h2>Renfrew - Model Results</h2>
 <p>Monthly Generation Results <i>'Renfrew'</i>, as captured in file<i>'Renfrew.csv'</i>.</p>
-<img src="Renfrew.png" alt="bad image">
+<img src="./Outputs/Renfrew.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -146,7 +146,7 @@
         
             <h2>Earlton - Model Results</h2>
 <p>Monthly Generation Results <i>'Earlton'</i>, as captured in file<i>'Earlton.csv'</i>.</p>
-<img src="Earlton.png" alt="bad image">
+<img src="./Outputs/Earlton.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -212,7 +212,7 @@
         
             <h2>Verner - Model Results</h2>
 <p>Monthly Generation Results <i>'Verner'</i>, as captured in file<i>'Verner.csv'</i>.</p>
-<img src="Verner.png" alt="bad image">
+<img src="./Outputs/Verner.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -278,7 +278,7 @@
         
             <h2>Kearney - Model Results</h2>
 <p>Monthly Generation Results <i>'Kearney'</i>, as captured in file<i>'Kearney.csv'</i>.</p>
-<img src="Kearney.png" alt="bad image">
+<img src="./Outputs/Kearney.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -344,7 +344,7 @@
         
             <h2>Sturgeon Falls - Model Results</h2>
 <p>Monthly Generation Results <i>'Sturgeon Falls'</i>, as captured in file<i>'Sturgeon Falls.csv'</i>.</p>
-<img src="Sturgeon Falls.png" alt="bad image">
+<img src="./Outputs/Sturgeon Falls.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -410,7 +410,7 @@
         
             <h2>Simcoe - Model Results</h2>
 <p>Monthly Generation Results <i>'Simcoe'</i>, as captured in file<i>'Simcoe.csv'</i>.</p>
-<img src="Simcoe.png" alt="bad image">
+<img src="./Outputs/Simcoe.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -476,7 +476,7 @@
         
             <h2>Newburgh - Model Results</h2>
 <p>Monthly Generation Results <i>'Newburgh'</i>, as captured in file<i>'Newburgh.csv'</i>.</p>
-<img src="Newburgh.png" alt="bad image">
+<img src="./Outputs/Newburgh.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -542,7 +542,7 @@
         
             <h2>Tecumseh - Model Results</h2>
 <p>Monthly Generation Results <i>'Tecumseh'</i>, as captured in file<i>'Tecumseh.csv'</i>.</p>
-<img src="Tecumseh.png" alt="bad image">
+<img src="./Outputs/Tecumseh.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -608,7 +608,7 @@
         
             <h2>Oldcastle - Model Results</h2>
 <p>Monthly Generation Results <i>'Oldcastle'</i>, as captured in file<i>'Oldcastle.csv'</i>.</p>
-<img src="Oldcastle.png" alt="bad image">
+<img src="./Outputs/Oldcastle.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -674,7 +674,7 @@
         
             <h2>Waterford - Model Results</h2>
 <p>Monthly Generation Results <i>'Waterford'</i>, as captured in file<i>'Waterford.csv'</i>.</p>
-<img src="Waterford.png" alt="bad image">
+<img src="./Outputs/Waterford.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -740,7 +740,7 @@
         
             <h2>Pontypool - Model Results</h2>
 <p>Monthly Generation Results <i>'Pontypool'</i>, as captured in file<i>'Pontypool.csv'</i>.</p>
-<img src="Pontypool.png" alt="bad image">
+<img src="./Outputs/Pontypool.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -806,7 +806,7 @@
         
             <h2>Thunder Bay - Model Results</h2>
 <p>Monthly Generation Results <i>'Thunder Bay'</i>, as captured in file<i>'Thunder Bay.csv'</i>.</p>
-<img src="Thunder Bay.png" alt="bad image">
+<img src="./Outputs/Thunder Bay.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -872,7 +872,7 @@
         
             <h2>Cache Bay - Model Results</h2>
 <p>Monthly Generation Results <i>'Cache Bay'</i>, as captured in file<i>'Cache Bay.csv'</i>.</p>
-<img src="Cache Bay.png" alt="bad image">
+<img src="./Outputs/Cache Bay.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -938,7 +938,7 @@
         
             <h2>Thomasburg - Model Results</h2>
 <p>Monthly Generation Results <i>'Thomasburg'</i>, as captured in file<i>'Thomasburg.csv'</i>.</p>
-<img src="Thomasburg.png" alt="bad image">
+<img src="./Outputs/Thomasburg.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1004,7 +1004,7 @@
         
             <h2>Brockville - Model Results</h2>
 <p>Monthly Generation Results <i>'Brockville'</i>, as captured in file<i>'Brockville.csv'</i>.</p>
-<img src="Brockville.png" alt="bad image">
+<img src="./Outputs/Brockville.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1070,7 +1070,7 @@
         
             <h2>Dundalk - Model Results</h2>
 <p>Monthly Generation Results <i>'Dundalk'</i>, as captured in file<i>'Dundalk.csv'</i>.</p>
-<img src="Dundalk.png" alt="bad image">
+<img src="./Outputs/Dundalk.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1136,7 +1136,7 @@
         
             <h2>McDonalds Corners - Model Results</h2>
 <p>Monthly Generation Results <i>'McDonalds Corners'</i>, as captured in file<i>'McDonalds Corners.csv'</i>.</p>
-<img src="McDonalds Corners.png" alt="bad image">
+<img src="./Outputs/McDonalds Corners.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1202,7 +1202,7 @@
         
             <h2>100 King - Model Results</h2>
 <p>Monthly Generation Results <i>'100 King'</i>, as captured in file<i>'100 King.csv'</i>.</p>
-<img src="100 King.png" alt="bad image">
+<img src="./Outputs/100 King.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1268,7 +1268,7 @@
         
             <h2>102 Arnold - Model Results</h2>
 <p>Monthly Generation Results <i>'102 Arnold'</i>, as captured in file<i>'102 Arnold.csv'</i>.</p>
-<img src="102 Arnold.png" alt="bad image">
+<img src="./Outputs/102 Arnold.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1334,7 +1334,7 @@
         
             <h2>110 Arnold - Model Results</h2>
 <p>Monthly Generation Results <i>'110 Arnold'</i>, as captured in file<i>'110 Arnold.csv'</i>.</p>
-<img src="110 Arnold.png" alt="bad image">
+<img src="./Outputs/110 Arnold.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1400,7 +1400,7 @@
         
             <h2>28 Mill - Model Results</h2>
 <p>Monthly Generation Results <i>'28 Mill'</i>, as captured in file<i>'28 Mill.csv'</i>.</p>
-<img src="28 Mill.png" alt="bad image">
+<img src="./Outputs/28 Mill.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1466,7 +1466,7 @@
         
             <h2>390 Thomas - Model Results</h2>
 <p>Monthly Generation Results <i>'390 Thomas'</i>, as captured in file<i>'390 Thomas.csv'</i>.</p>
-<img src="390 Thomas.png" alt="bad image">
+<img src="./Outputs/390 Thomas.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1532,7 +1532,7 @@
         
             <h2>462 Riverview - Model Results</h2>
 <p>Monthly Generation Results <i>'462 Riverview'</i>, as captured in file<i>'462 Riverview.csv'</i>.</p>
-<img src="462 Riverview.png" alt="bad image">
+<img src="./Outputs/462 Riverview.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1598,7 +1598,7 @@
         
             <h2>601 Canarctic - Model Results</h2>
 <p>Monthly Generation Results <i>'601 Canarctic'</i>, as captured in file<i>'601 Canarctic.csv'</i>.</p>
-<img src="601 Canarctic.png" alt="bad image">
+<img src="./Outputs/601 Canarctic.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1664,7 +1664,7 @@
         
             <h2>Carson Horse Arena - Model Results</h2>
 <p>Monthly Generation Results <i>'Carson Horse Arena'</i>, as captured in file<i>'Carson Horse Arena.csv'</i>.</p>
-<img src="Carson Horse Arena.png" alt="bad image">
+<img src="./Outputs/Carson Horse Arena.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1730,7 +1730,7 @@
         
             <h2>Carson Barns 4 & 6 - Model Results</h2>
 <p>Monthly Generation Results <i>'Carson Barns 4 & 6'</i>, as captured in file<i>'Carson Barns 4 & 6.csv'</i>.</p>
-<img src="Carson Barns 4 & 6.png" alt="bad image">
+<img src="./Outputs/Carson Barns 4 & 6.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1796,7 +1796,7 @@
         
             <h2>Carson Sales Barn - Model Results</h2>
 <p>Monthly Generation Results <i>'Carson Sales Barn'</i>, as captured in file<i>'Carson Sales Barn.csv'</i>.</p>
-<img src="Carson Sales Barn.png" alt="bad image">
+<img src="./Outputs/Carson Sales Barn.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1862,7 +1862,7 @@
         
             <h2>Cornerview Dairy - Model Results</h2>
 <p>Monthly Generation Results <i>'Cornerview Dairy'</i>, as captured in file<i>'Cornerview Dairy.csv'</i>.</p>
-<img src="Cornerview Dairy.png" alt="bad image">
+<img src="./Outputs/Cornerview Dairy.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1928,7 +1928,7 @@
         
             <h2>Cranberry Creek - Model Results</h2>
 <p>Monthly Generation Results <i>'Cranberry Creek'</i>, as captured in file<i>'Cranberry Creek.csv'</i>.</p>
-<img src="Cranberry Creek.png" alt="bad image">
+<img src="./Outputs/Cranberry Creek.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1994,7 +1994,7 @@
         
             <h2>Kemptville Storage - Model Results</h2>
 <p>Monthly Generation Results <i>'Kemptville Storage'</i>, as captured in file<i>'Kemptville Storage.csv'</i>.</p>
-<img src="Kemptville Storage.png" alt="bad image">
+<img src="./Outputs/Kemptville Storage.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2060,7 +2060,7 @@
         
             <h2>200 Centennial - Model Results</h2>
 <p>Monthly Generation Results <i>'200 Centennial'</i>, as captured in file<i>'200 Centennial.csv'</i>.</p>
-<img src="200 Centennial.png" alt="bad image">
+<img src="./Outputs/200 Centennial.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2126,7 +2126,7 @@
         
             <h2>225 Centennial - Model Results</h2>
 <p>Monthly Generation Results <i>'225 Centennial'</i>, as captured in file<i>'225 Centennial.csv'</i>.</p>
-<img src="225 Centennial.png" alt="bad image">
+<img src="./Outputs/225 Centennial.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2192,7 +2192,7 @@
         
             <h2>42 Commerce Park - Model Results</h2>
 <p>Monthly Generation Results <i>'42 Commerce Park'</i>, as captured in file<i>'42 Commerce Park.csv'</i>.</p>
-<img src="42 Commerce Park.png" alt="bad image">
+<img src="./Outputs/42 Commerce Park.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2258,7 +2258,7 @@
         
             <h2>66 Hincks - Model Results</h2>
 <p>Monthly Generation Results <i>'66 Hincks'</i>, as captured in file<i>'66 Hincks.csv'</i>.</p>
-<img src="66 Hincks.png" alt="bad image">
+<img src="./Outputs/66 Hincks.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2324,7 +2324,7 @@
         
             <h2>131 Sheldon - Model Results</h2>
 <p>Monthly Generation Results <i>'131 Sheldon'</i>, as captured in file<i>'131 Sheldon.csv'</i>.</p>
-<img src="131 Sheldon.png" alt="bad image">
+<img src="./Outputs/131 Sheldon.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2390,7 +2390,7 @@
         
             <h2>1177 Franklin - Model Results</h2>
 <p>Monthly Generation Results <i>'1177 Franklin'</i>, as captured in file<i>'1177 Franklin.csv'</i>.</p>
-<img src="1177 Franklin.png" alt="bad image">
+<img src="./Outputs/1177 Franklin.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2456,7 +2456,7 @@
         
             <h2>1195 Franklin - Model Results</h2>
 <p>Monthly Generation Results <i>'1195 Franklin'</i>, as captured in file<i>'1195 Franklin.csv'</i>.</p>
-<img src="1195 Franklin.png" alt="bad image">
+<img src="./Outputs/1195 Franklin.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2522,7 +2522,7 @@
         
             <h2>1425 Bishop - Model Results</h2>
 <p>Monthly Generation Results <i>'1425 Bishop'</i>, as captured in file<i>'1425 Bishop.csv'</i>.</p>
-<img src="1425 Bishop.png" alt="bad image">
+<img src="./Outputs/1425 Bishop.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2588,7 +2588,7 @@
         
             <h2>101 Wayne Gretzky - Model Results</h2>
 <p>Monthly Generation Results <i>'101 Wayne Gretzky'</i>, as captured in file<i>'101 Wayne Gretzky.csv'</i>.</p>
-<img src="101 Wayne Gretzky.png" alt="bad image">
+<img src="./Outputs/101 Wayne Gretzky.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2654,7 +2654,7 @@
         
             <h2>1500 Victoria - Model Results</h2>
 <p>Monthly Generation Results <i>'1500 Victoria'</i>, as captured in file<i>'1500 Victoria.csv'</i>.</p>
-<img src="1500 Victoria.png" alt="bad image">
+<img src="./Outputs/1500 Victoria.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2720,7 +2720,7 @@
         
             <h2>127 Aviva - Model Results</h2>
 <p>Monthly Generation Results <i>'127 Aviva'</i>, as captured in file<i>'127 Aviva.csv'</i>.</p>
-<img src="127 Aviva.png" alt="bad image">
+<img src="./Outputs/127 Aviva.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2786,7 +2786,7 @@
         
             <h2>151 Aviva - Model Results</h2>
 <p>Monthly Generation Results <i>'151 Aviva'</i>, as captured in file<i>'151 Aviva.csv'</i>.</p>
-<img src="151 Aviva.png" alt="bad image">
+<img src="./Outputs/151 Aviva.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2852,7 +2852,7 @@
         
             <h2>256 Aviva - Model Results</h2>
 <p>Monthly Generation Results <i>'256 Aviva'</i>, as captured in file<i>'256 Aviva.csv'</i>.</p>
-<img src="256 Aviva.png" alt="bad image">
+<img src="./Outputs/256 Aviva.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2918,7 +2918,7 @@
         
             <h2>280 Aviva - Model Results</h2>
 <p>Monthly Generation Results <i>'280 Aviva'</i>, as captured in file<i>'280 Aviva.csv'</i>.</p>
-<img src="280 Aviva.png" alt="bad image">
+<img src="./Outputs/280 Aviva.png" alt="bad image">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
