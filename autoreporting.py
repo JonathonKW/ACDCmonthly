@@ -31,13 +31,11 @@ class PlantResults:
         self.dataset = os.path.split(filepath)[-1]
         self.df_results = csv_to_df(filepath)
         
-        #self.table = 
-
+        
     def self_graph(self):
 
         # Function to pull site data, turn it into a graph and save it
         # Will need to update this to function by month and year input, currently just pulls the available split data
-
 
         plt.figure(figsize=(8,6))
 
