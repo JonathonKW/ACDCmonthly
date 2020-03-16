@@ -103,7 +103,7 @@ def main():
     # Entry point for script
     # Render a template, write to file
     # :return:
-    split_csv("datasets/annual_data1.csv", 2020)
+    split_csv("datasets/annual_data1.csv", 2019)
     # Adding content to be published
     title = "Model Report"
 

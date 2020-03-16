@@ -28,52 +28,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>900</th>
+      <th>432</th>
       <td>1</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>12.97</td>
+      <td>18.65</td>
     </tr>
     <tr>
-      <th>963</th>
+      <th>433</th>
       <td>1</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>22.67</td>
+      <td>20.07</td>
     </tr>
     <tr>
-      <th>1972</th>
+      <th>434</th>
+      <td>1</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.73</td>
+    </tr>
+    <tr>
+      <th>435</th>
+      <td>1</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.67</td>
+    </tr>
+    <tr>
+      <th>436</th>
+      <td>1</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.05</td>
+    </tr>
+    <tr>
+      <th>437</th>
+      <td>1</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.51</td>
+    </tr>
+    <tr>
+      <th>438</th>
+      <td>1</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.43</td>
+    </tr>
+    <tr>
+      <th>439</th>
+      <td>1</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.63</td>
+    </tr>
+    <tr>
+      <th>440</th>
+      <td>1</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.53</td>
+    </tr>
+    <tr>
+      <th>441</th>
+      <td>1</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>26.78</td>
+    </tr>
+    <tr>
+      <th>442</th>
+      <td>1</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.97</td>
+    </tr>
+    <tr>
+      <th>443</th>
+      <td>1</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.43</td>
+    </tr>
+    <tr>
+      <th>1504</th>
       <td>1</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>16.50</td>
+      <td>11.29</td>
     </tr>
     <tr>
-      <th>2035</th>
+      <th>1505</th>
       <td>1</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>10.13</td>
     </tr>
     <tr>
-      <th>3044</th>
+      <th>1506</th>
+      <td>1</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.03</td>
+    </tr>
+    <tr>
+      <th>1507</th>
+      <td>1</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.67</td>
+    </tr>
+    <tr>
+      <th>1508</th>
+      <td>1</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.00</td>
+    </tr>
+    <tr>
+      <th>1509</th>
+      <td>1</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>40.43</td>
+    </tr>
+    <tr>
+      <th>1510</th>
+      <td>1</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>39.56</td>
+    </tr>
+    <tr>
+      <th>1511</th>
+      <td>1</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.78</td>
+    </tr>
+    <tr>
+      <th>1512</th>
+      <td>1</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.98</td>
+    </tr>
+    <tr>
+      <th>1513</th>
+      <td>1</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.85</td>
+    </tr>
+    <tr>
+      <th>1514</th>
+      <td>1</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.55</td>
+    </tr>
+    <tr>
+      <th>1515</th>
+      <td>1</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.03</td>
+    </tr>
+    <tr>
+      <th>2576</th>
       <td>1</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.46</td>
     </tr>
     <tr>
-      <th>3107</th>
+      <th>2577</th>
       <td>1</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.59</td>
+    </tr>
+    <tr>
+      <th>2578</th>
+      <td>1</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>29.12</td>
+    </tr>
+    <tr>
+      <th>2579</th>
+      <td>1</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.27</td>
+    </tr>
+    <tr>
+      <th>2580</th>
+      <td>1</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.35</td>
+    </tr>
+    <tr>
+      <th>2581</th>
+      <td>1</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.58</td>
+    </tr>
+    <tr>
+      <th>2582</th>
+      <td>1</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.11</td>
+    </tr>
+    <tr>
+      <th>2583</th>
+      <td>1</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>36.88</td>
+    </tr>
+    <tr>
+      <th>2584</th>
+      <td>1</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.91</td>
+    </tr>
+    <tr>
+      <th>2585</th>
+      <td>1</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.66</td>
+    </tr>
+    <tr>
+      <th>2586</th>
+      <td>1</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.15</td>
+    </tr>
+    <tr>
+      <th>2587</th>
+      <td>1</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.57</td>
     </tr>
   </tbody>
 </table>
@@ -94,52 +334,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>901</th>
+      <th>444</th>
       <td>2</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.50</td>
+      <td>1.35</td>
     </tr>
     <tr>
-      <th>964</th>
+      <th>445</th>
       <td>2</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.39</td>
+      <td>33.90</td>
     </tr>
     <tr>
-      <th>1973</th>
+      <th>446</th>
+      <td>2</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.37</td>
+    </tr>
+    <tr>
+      <th>447</th>
+      <td>2</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.30</td>
+    </tr>
+    <tr>
+      <th>448</th>
+      <td>2</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.36</td>
+    </tr>
+    <tr>
+      <th>449</th>
+      <td>2</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.17</td>
+    </tr>
+    <tr>
+      <th>450</th>
+      <td>2</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>50.78</td>
+    </tr>
+    <tr>
+      <th>451</th>
+      <td>2</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.05</td>
+    </tr>
+    <tr>
+      <th>452</th>
+      <td>2</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.98</td>
+    </tr>
+    <tr>
+      <th>453</th>
+      <td>2</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.27</td>
+    </tr>
+    <tr>
+      <th>454</th>
+      <td>2</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.40</td>
+    </tr>
+    <tr>
+      <th>455</th>
+      <td>2</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.78</td>
+    </tr>
+    <tr>
+      <th>1516</th>
       <td>2</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>15.50</td>
+      <td>13.12</td>
     </tr>
     <tr>
-      <th>2036</th>
+      <th>1517</th>
       <td>2</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>19.59</td>
     </tr>
     <tr>
-      <th>3045</th>
+      <th>1518</th>
+      <td>2</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>19.32</td>
+    </tr>
+    <tr>
+      <th>1519</th>
+      <td>2</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.43</td>
+    </tr>
+    <tr>
+      <th>1520</th>
+      <td>2</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.86</td>
+    </tr>
+    <tr>
+      <th>1521</th>
+      <td>2</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.63</td>
+    </tr>
+    <tr>
+      <th>1522</th>
+      <td>2</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>50.53</td>
+    </tr>
+    <tr>
+      <th>1523</th>
+      <td>2</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.08</td>
+    </tr>
+    <tr>
+      <th>1524</th>
+      <td>2</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.94</td>
+    </tr>
+    <tr>
+      <th>1525</th>
+      <td>2</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.39</td>
+    </tr>
+    <tr>
+      <th>1526</th>
+      <td>2</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.78</td>
+    </tr>
+    <tr>
+      <th>1527</th>
+      <td>2</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>5.83</td>
+    </tr>
+    <tr>
+      <th>2588</th>
       <td>2</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.03</td>
     </tr>
     <tr>
-      <th>3108</th>
+      <th>2589</th>
       <td>2</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>19.59</td>
+    </tr>
+    <tr>
+      <th>2590</th>
+      <td>2</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.65</td>
+    </tr>
+    <tr>
+      <th>2591</th>
+      <td>2</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.82</td>
+    </tr>
+    <tr>
+      <th>2592</th>
+      <td>2</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.84</td>
+    </tr>
+    <tr>
+      <th>2593</th>
+      <td>2</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.24</td>
+    </tr>
+    <tr>
+      <th>2594</th>
+      <td>2</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.10</td>
+    </tr>
+    <tr>
+      <th>2595</th>
+      <td>2</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.85</td>
+    </tr>
+    <tr>
+      <th>2596</th>
+      <td>2</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.86</td>
+    </tr>
+    <tr>
+      <th>2597</th>
+      <td>2</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.56</td>
+    </tr>
+    <tr>
+      <th>2598</th>
+      <td>2</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>14.29</td>
+    </tr>
+    <tr>
+      <th>2599</th>
+      <td>2</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.18</td>
     </tr>
   </tbody>
 </table>
@@ -160,52 +640,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>902</th>
+      <th>456</th>
       <td>3</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.39</td>
+      <td>0.43</td>
     </tr>
     <tr>
-      <th>965</th>
+      <th>457</th>
       <td>3</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>5.96</td>
+      <td>0.16</td>
     </tr>
     <tr>
-      <th>1974</th>
+      <th>458</th>
+      <td>3</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.42</td>
+    </tr>
+    <tr>
+      <th>459</th>
+      <td>3</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.03</td>
+    </tr>
+    <tr>
+      <th>460</th>
+      <td>3</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>39.84</td>
+    </tr>
+    <tr>
+      <th>461</th>
+      <td>3</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.65</td>
+    </tr>
+    <tr>
+      <th>462</th>
+      <td>3</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.78</td>
+    </tr>
+    <tr>
+      <th>463</th>
+      <td>3</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>40.41</td>
+    </tr>
+    <tr>
+      <th>464</th>
+      <td>3</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.88</td>
+    </tr>
+    <tr>
+      <th>465</th>
+      <td>3</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.12</td>
+    </tr>
+    <tr>
+      <th>466</th>
+      <td>3</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.59</td>
+    </tr>
+    <tr>
+      <th>467</th>
+      <td>3</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.89</td>
+    </tr>
+    <tr>
+      <th>1528</th>
       <td>3</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>1.69</td>
+      <td>5.01</td>
     </tr>
     <tr>
-      <th>2037</th>
+      <th>1529</th>
       <td>3</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>1.03</td>
     </tr>
     <tr>
-      <th>3046</th>
+      <th>1530</th>
+      <td>3</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.00</td>
+    </tr>
+    <tr>
+      <th>1531</th>
+      <td>3</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.60</td>
+    </tr>
+    <tr>
+      <th>1532</th>
+      <td>3</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>38.89</td>
+    </tr>
+    <tr>
+      <th>1533</th>
+      <td>3</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>38.60</td>
+    </tr>
+    <tr>
+      <th>1534</th>
+      <td>3</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.47</td>
+    </tr>
+    <tr>
+      <th>1535</th>
+      <td>3</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>39.33</td>
+    </tr>
+    <tr>
+      <th>1536</th>
+      <td>3</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.58</td>
+    </tr>
+    <tr>
+      <th>1537</th>
+      <td>3</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>21.15</td>
+    </tr>
+    <tr>
+      <th>1538</th>
+      <td>3</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.70</td>
+    </tr>
+    <tr>
+      <th>1539</th>
+      <td>3</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.88</td>
+    </tr>
+    <tr>
+      <th>2600</th>
       <td>3</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.12</td>
     </tr>
     <tr>
-      <th>3109</th>
+      <th>2601</th>
       <td>3</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>19.84</td>
+    </tr>
+    <tr>
+      <th>2602</th>
+      <td>3</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.32</td>
+    </tr>
+    <tr>
+      <th>2603</th>
+      <td>3</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.81</td>
+    </tr>
+    <tr>
+      <th>2604</th>
+      <td>3</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.90</td>
+    </tr>
+    <tr>
+      <th>2605</th>
+      <td>3</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.70</td>
+    </tr>
+    <tr>
+      <th>2606</th>
+      <td>3</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.33</td>
+    </tr>
+    <tr>
+      <th>2607</th>
+      <td>3</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>36.39</td>
+    </tr>
+    <tr>
+      <th>2608</th>
+      <td>3</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.65</td>
+    </tr>
+    <tr>
+      <th>2609</th>
+      <td>3</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>20.94</td>
+    </tr>
+    <tr>
+      <th>2610</th>
+      <td>3</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.28</td>
+    </tr>
+    <tr>
+      <th>2611</th>
+      <td>3</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.16</td>
     </tr>
   </tbody>
 </table>
@@ -226,52 +946,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>903</th>
+      <th>468</th>
       <td>4</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>6.45</td>
+      <td>1.09</td>
     </tr>
     <tr>
-      <th>966</th>
+      <th>469</th>
       <td>4</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>22.00</td>
+      <td>0.21</td>
     </tr>
     <tr>
-      <th>1975</th>
+      <th>470</th>
+      <td>4</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.79</td>
+    </tr>
+    <tr>
+      <th>471</th>
+      <td>4</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.49</td>
+    </tr>
+    <tr>
+      <th>472</th>
+      <td>4</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.74</td>
+    </tr>
+    <tr>
+      <th>473</th>
+      <td>4</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>45.28</td>
+    </tr>
+    <tr>
+      <th>474</th>
+      <td>4</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.75</td>
+    </tr>
+    <tr>
+      <th>475</th>
+      <td>4</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>39.34</td>
+    </tr>
+    <tr>
+      <th>476</th>
+      <td>4</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>30.01</td>
+    </tr>
+    <tr>
+      <th>477</th>
+      <td>4</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.63</td>
+    </tr>
+    <tr>
+      <th>478</th>
+      <td>4</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.29</td>
+    </tr>
+    <tr>
+      <th>479</th>
+      <td>4</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.18</td>
+    </tr>
+    <tr>
+      <th>1540</th>
       <td>4</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>19.89</td>
+      <td>4.97</td>
     </tr>
     <tr>
-      <th>2038</th>
+      <th>1541</th>
       <td>4</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>8.88</td>
     </tr>
     <tr>
-      <th>3047</th>
+      <th>1542</th>
+      <td>4</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.58</td>
+    </tr>
+    <tr>
+      <th>1543</th>
+      <td>4</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.55</td>
+    </tr>
+    <tr>
+      <th>1544</th>
+      <td>4</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.29</td>
+    </tr>
+    <tr>
+      <th>1545</th>
+      <td>4</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.33</td>
+    </tr>
+    <tr>
+      <th>1546</th>
+      <td>4</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.06</td>
+    </tr>
+    <tr>
+      <th>1547</th>
+      <td>4</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.88</td>
+    </tr>
+    <tr>
+      <th>1548</th>
+      <td>4</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.13</td>
+    </tr>
+    <tr>
+      <th>1549</th>
+      <td>4</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.17</td>
+    </tr>
+    <tr>
+      <th>1550</th>
+      <td>4</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.17</td>
+    </tr>
+    <tr>
+      <th>1551</th>
+      <td>4</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.17</td>
+    </tr>
+    <tr>
+      <th>2612</th>
       <td>4</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>8.56</td>
     </tr>
     <tr>
-      <th>3110</th>
+      <th>2613</th>
       <td>4</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.81</td>
+    </tr>
+    <tr>
+      <th>2614</th>
+      <td>4</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>29.95</td>
+    </tr>
+    <tr>
+      <th>2615</th>
+      <td>4</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.99</td>
+    </tr>
+    <tr>
+      <th>2616</th>
+      <td>4</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.07</td>
+    </tr>
+    <tr>
+      <th>2617</th>
+      <td>4</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.73</td>
+    </tr>
+    <tr>
+      <th>2618</th>
+      <td>4</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.89</td>
+    </tr>
+    <tr>
+      <th>2619</th>
+      <td>4</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.56</td>
+    </tr>
+    <tr>
+      <th>2620</th>
+      <td>4</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.20</td>
+    </tr>
+    <tr>
+      <th>2621</th>
+      <td>4</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>22.69</td>
+    </tr>
+    <tr>
+      <th>2622</th>
+      <td>4</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.98</td>
+    </tr>
+    <tr>
+      <th>2623</th>
+      <td>4</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.05</td>
     </tr>
   </tbody>
 </table>
@@ -292,52 +1252,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>904</th>
+      <th>480</th>
       <td>5</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.810</td>
+      <td>0.01</td>
     </tr>
     <tr>
-      <th>967</th>
+      <th>481</th>
       <td>5</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.274</td>
+      <td>0.47</td>
     </tr>
     <tr>
-      <th>1976</th>
+      <th>482</th>
+      <td>5</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.95</td>
+    </tr>
+    <tr>
+      <th>483</th>
+      <td>5</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>28.38</td>
+    </tr>
+    <tr>
+      <th>484</th>
+      <td>5</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>32.12</td>
+    </tr>
+    <tr>
+      <th>485</th>
+      <td>5</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>39.92</td>
+    </tr>
+    <tr>
+      <th>486</th>
+      <td>5</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.11</td>
+    </tr>
+    <tr>
+      <th>487</th>
+      <td>5</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.63</td>
+    </tr>
+    <tr>
+      <th>488</th>
+      <td>5</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.37</td>
+    </tr>
+    <tr>
+      <th>489</th>
+      <td>5</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.92</td>
+    </tr>
+    <tr>
+      <th>490</th>
+      <td>5</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.08</td>
+    </tr>
+    <tr>
+      <th>491</th>
+      <td>5</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>2.63</td>
+    </tr>
+    <tr>
+      <th>1552</th>
       <td>5</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>6.970</td>
+      <td>2.60</td>
     </tr>
     <tr>
-      <th>2039</th>
+      <th>1553</th>
       <td>5</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>1.11</td>
     </tr>
     <tr>
-      <th>3048</th>
+      <th>1554</th>
+      <td>5</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.89</td>
+    </tr>
+    <tr>
+      <th>1555</th>
+      <td>5</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.62</td>
+    </tr>
+    <tr>
+      <th>1556</th>
+      <td>5</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.76</td>
+    </tr>
+    <tr>
+      <th>1557</th>
+      <td>5</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.13</td>
+    </tr>
+    <tr>
+      <th>1558</th>
+      <td>5</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>47.28</td>
+    </tr>
+    <tr>
+      <th>1559</th>
+      <td>5</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.53</td>
+    </tr>
+    <tr>
+      <th>1560</th>
+      <td>5</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.24</td>
+    </tr>
+    <tr>
+      <th>1561</th>
+      <td>5</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>21.65</td>
+    </tr>
+    <tr>
+      <th>1562</th>
+      <td>5</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.18</td>
+    </tr>
+    <tr>
+      <th>1563</th>
+      <td>5</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.70</td>
+    </tr>
+    <tr>
+      <th>2624</th>
       <td>5</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>4.800</td>
+      <td>4.80</td>
     </tr>
     <tr>
-      <th>3111</th>
+      <th>2625</th>
       <td>5</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>10.340</td>
+      <td>10.34</td>
+    </tr>
+    <tr>
+      <th>2626</th>
+      <td>5</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.90</td>
+    </tr>
+    <tr>
+      <th>2627</th>
+      <td>5</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.93</td>
+    </tr>
+    <tr>
+      <th>2628</th>
+      <td>5</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.26</td>
+    </tr>
+    <tr>
+      <th>2629</th>
+      <td>5</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.58</td>
+    </tr>
+    <tr>
+      <th>2630</th>
+      <td>5</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.05</td>
+    </tr>
+    <tr>
+      <th>2631</th>
+      <td>5</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.10</td>
+    </tr>
+    <tr>
+      <th>2632</th>
+      <td>5</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.66</td>
+    </tr>
+    <tr>
+      <th>2633</th>
+      <td>5</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.49</td>
+    </tr>
+    <tr>
+      <th>2634</th>
+      <td>5</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.78</td>
+    </tr>
+    <tr>
+      <th>2635</th>
+      <td>5</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>6.25</td>
     </tr>
   </tbody>
 </table>
@@ -358,52 +1558,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>905</th>
+      <th>492</th>
       <td>6</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>2.15</td>
+      <td>0.00</td>
     </tr>
     <tr>
-      <th>968</th>
+      <th>493</th>
       <td>6</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.81</td>
+      <td>0.00</td>
     </tr>
     <tr>
-      <th>1977</th>
+      <th>494</th>
+      <td>6</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.04</td>
+    </tr>
+    <tr>
+      <th>495</th>
+      <td>6</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.21</td>
+    </tr>
+    <tr>
+      <th>496</th>
+      <td>6</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.35</td>
+    </tr>
+    <tr>
+      <th>497</th>
+      <td>6</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>39.50</td>
+    </tr>
+    <tr>
+      <th>498</th>
+      <td>6</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.92</td>
+    </tr>
+    <tr>
+      <th>499</th>
+      <td>6</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>45.32</td>
+    </tr>
+    <tr>
+      <th>500</th>
+      <td>6</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.54</td>
+    </tr>
+    <tr>
+      <th>501</th>
+      <td>6</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.70</td>
+    </tr>
+    <tr>
+      <th>502</th>
+      <td>6</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.97</td>
+    </tr>
+    <tr>
+      <th>503</th>
+      <td>6</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.25</td>
+    </tr>
+    <tr>
+      <th>1564</th>
       <td>6</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>19.04</td>
+      <td>1.63</td>
     </tr>
     <tr>
-      <th>2040</th>
+      <th>1565</th>
       <td>6</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>0.00</td>
     </tr>
     <tr>
-      <th>3049</th>
+      <th>1566</th>
+      <td>6</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.75</td>
+    </tr>
+    <tr>
+      <th>1567</th>
+      <td>6</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.41</td>
+    </tr>
+    <tr>
+      <th>1568</th>
+      <td>6</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.08</td>
+    </tr>
+    <tr>
+      <th>1569</th>
+      <td>6</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>40.35</td>
+    </tr>
+    <tr>
+      <th>1570</th>
+      <td>6</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>50.62</td>
+    </tr>
+    <tr>
+      <th>1571</th>
+      <td>6</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.96</td>
+    </tr>
+    <tr>
+      <th>1572</th>
+      <td>6</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.63</td>
+    </tr>
+    <tr>
+      <th>1573</th>
+      <td>6</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.22</td>
+    </tr>
+    <tr>
+      <th>1574</th>
+      <td>6</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.13</td>
+    </tr>
+    <tr>
+      <th>1575</th>
+      <td>6</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.25</td>
+    </tr>
+    <tr>
+      <th>2636</th>
       <td>6</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>8.40</td>
     </tr>
     <tr>
-      <th>3112</th>
+      <th>2637</th>
       <td>6</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.35</td>
+    </tr>
+    <tr>
+      <th>2638</th>
+      <td>6</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.30</td>
+    </tr>
+    <tr>
+      <th>2639</th>
+      <td>6</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.11</td>
+    </tr>
+    <tr>
+      <th>2640</th>
+      <td>6</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.67</td>
+    </tr>
+    <tr>
+      <th>2641</th>
+      <td>6</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.20</td>
+    </tr>
+    <tr>
+      <th>2642</th>
+      <td>6</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.07</td>
+    </tr>
+    <tr>
+      <th>2643</th>
+      <td>6</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.65</td>
+    </tr>
+    <tr>
+      <th>2644</th>
+      <td>6</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.36</td>
+    </tr>
+    <tr>
+      <th>2645</th>
+      <td>6</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>22.97</td>
+    </tr>
+    <tr>
+      <th>2646</th>
+      <td>6</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.84</td>
+    </tr>
+    <tr>
+      <th>2647</th>
+      <td>6</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.79</td>
     </tr>
   </tbody>
 </table>
@@ -424,52 +1864,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>906</th>
+      <th>504</th>
       <td>7</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>12.48</td>
+      <td>15.03</td>
     </tr>
     <tr>
-      <th>969</th>
+      <th>505</th>
       <td>7</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>21.33</td>
+      <td>16.88</td>
     </tr>
     <tr>
-      <th>1978</th>
+      <th>506</th>
+      <td>7</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.37</td>
+    </tr>
+    <tr>
+      <th>507</th>
+      <td>7</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>30.48</td>
+    </tr>
+    <tr>
+      <th>508</th>
+      <td>7</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.41</td>
+    </tr>
+    <tr>
+      <th>509</th>
+      <td>7</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.02</td>
+    </tr>
+    <tr>
+      <th>510</th>
+      <td>7</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.42</td>
+    </tr>
+    <tr>
+      <th>511</th>
+      <td>7</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.22</td>
+    </tr>
+    <tr>
+      <th>512</th>
+      <td>7</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.11</td>
+    </tr>
+    <tr>
+      <th>513</th>
+      <td>7</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.17</td>
+    </tr>
+    <tr>
+      <th>514</th>
+      <td>7</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>12.58</td>
+    </tr>
+    <tr>
+      <th>515</th>
+      <td>7</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.26</td>
+    </tr>
+    <tr>
+      <th>1576</th>
       <td>7</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>16.35</td>
+      <td>11.91</td>
     </tr>
     <tr>
-      <th>2041</th>
+      <th>1577</th>
       <td>7</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>12.90</td>
     </tr>
     <tr>
-      <th>3050</th>
+      <th>1578</th>
+      <td>7</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.24</td>
+    </tr>
+    <tr>
+      <th>1579</th>
+      <td>7</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.86</td>
+    </tr>
+    <tr>
+      <th>1580</th>
+      <td>7</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.36</td>
+    </tr>
+    <tr>
+      <th>1581</th>
+      <td>7</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.28</td>
+    </tr>
+    <tr>
+      <th>1582</th>
+      <td>7</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.32</td>
+    </tr>
+    <tr>
+      <th>1583</th>
+      <td>7</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.89</td>
+    </tr>
+    <tr>
+      <th>1584</th>
+      <td>7</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>29.05</td>
+    </tr>
+    <tr>
+      <th>1585</th>
+      <td>7</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.71</td>
+    </tr>
+    <tr>
+      <th>1586</th>
+      <td>7</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>13.14</td>
+    </tr>
+    <tr>
+      <th>1587</th>
+      <td>7</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.49</td>
+    </tr>
+    <tr>
+      <th>2648</th>
       <td>7</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.77</td>
     </tr>
     <tr>
-      <th>3113</th>
+      <th>2649</th>
       <td>7</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>19.72</td>
+    </tr>
+    <tr>
+      <th>2650</th>
+      <td>7</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.29</td>
+    </tr>
+    <tr>
+      <th>2651</th>
+      <td>7</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.79</td>
+    </tr>
+    <tr>
+      <th>2652</th>
+      <td>7</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.97</td>
+    </tr>
+    <tr>
+      <th>2653</th>
+      <td>7</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.48</td>
+    </tr>
+    <tr>
+      <th>2654</th>
+      <td>7</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.34</td>
+    </tr>
+    <tr>
+      <th>2655</th>
+      <td>7</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.67</td>
+    </tr>
+    <tr>
+      <th>2656</th>
+      <td>7</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.72</td>
+    </tr>
+    <tr>
+      <th>2657</th>
+      <td>7</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.42</td>
+    </tr>
+    <tr>
+      <th>2658</th>
+      <td>7</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.29</td>
+    </tr>
+    <tr>
+      <th>2659</th>
+      <td>7</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.20</td>
     </tr>
   </tbody>
 </table>
@@ -490,52 +2170,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>907</th>
+      <th>516</th>
       <td>8</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>5.01</td>
+      <td>15.05</td>
     </tr>
     <tr>
-      <th>970</th>
+      <th>517</th>
       <td>8</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>19.00</td>
+      <td>17.58</td>
     </tr>
     <tr>
-      <th>1979</th>
+      <th>518</th>
+      <td>8</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.70</td>
+    </tr>
+    <tr>
+      <th>519</th>
+      <td>8</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.68</td>
+    </tr>
+    <tr>
+      <th>520</th>
+      <td>8</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.30</td>
+    </tr>
+    <tr>
+      <th>521</th>
+      <td>8</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.52</td>
+    </tr>
+    <tr>
+      <th>522</th>
+      <td>8</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.45</td>
+    </tr>
+    <tr>
+      <th>523</th>
+      <td>8</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.08</td>
+    </tr>
+    <tr>
+      <th>524</th>
+      <td>8</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.80</td>
+    </tr>
+    <tr>
+      <th>525</th>
+      <td>8</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.99</td>
+    </tr>
+    <tr>
+      <th>526</th>
+      <td>8</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.59</td>
+    </tr>
+    <tr>
+      <th>527</th>
+      <td>8</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.99</td>
+    </tr>
+    <tr>
+      <th>1588</th>
       <td>8</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>13.80</td>
+      <td>9.89</td>
     </tr>
     <tr>
-      <th>2042</th>
+      <th>1589</th>
       <td>8</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>16.22</td>
     </tr>
     <tr>
-      <th>3051</th>
+      <th>1590</th>
+      <td>8</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>29.66</td>
+    </tr>
+    <tr>
+      <th>1591</th>
+      <td>8</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>29.55</td>
+    </tr>
+    <tr>
+      <th>1592</th>
+      <td>8</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.61</td>
+    </tr>
+    <tr>
+      <th>1593</th>
+      <td>8</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>39.29</td>
+    </tr>
+    <tr>
+      <th>1594</th>
+      <td>8</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.13</td>
+    </tr>
+    <tr>
+      <th>1595</th>
+      <td>8</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.21</td>
+    </tr>
+    <tr>
+      <th>1596</th>
+      <td>8</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.22</td>
+    </tr>
+    <tr>
+      <th>1597</th>
+      <td>8</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.48</td>
+    </tr>
+    <tr>
+      <th>1598</th>
+      <td>8</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.98</td>
+    </tr>
+    <tr>
+      <th>1599</th>
+      <td>8</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>6.97</td>
+    </tr>
+    <tr>
+      <th>2660</th>
       <td>8</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>12.78</td>
     </tr>
     <tr>
-      <th>3114</th>
+      <th>2661</th>
       <td>8</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>18.92</td>
+    </tr>
+    <tr>
+      <th>2662</th>
+      <td>8</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.22</td>
+    </tr>
+    <tr>
+      <th>2663</th>
+      <td>8</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.14</td>
+    </tr>
+    <tr>
+      <th>2664</th>
+      <td>8</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.96</td>
+    </tr>
+    <tr>
+      <th>2665</th>
+      <td>8</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.87</td>
+    </tr>
+    <tr>
+      <th>2666</th>
+      <td>8</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.79</td>
+    </tr>
+    <tr>
+      <th>2667</th>
+      <td>8</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.36</td>
+    </tr>
+    <tr>
+      <th>2668</th>
+      <td>8</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.94</td>
+    </tr>
+    <tr>
+      <th>2669</th>
+      <td>8</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.80</td>
+    </tr>
+    <tr>
+      <th>2670</th>
+      <td>8</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.25</td>
+    </tr>
+    <tr>
+      <th>2671</th>
+      <td>8</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.33</td>
     </tr>
   </tbody>
 </table>
@@ -556,52 +2476,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>908</th>
+      <th>528</th>
       <td>9</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>13.54</td>
+      <td>17.98</td>
     </tr>
     <tr>
-      <th>971</th>
+      <th>529</th>
       <td>9</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>22.49</td>
+      <td>18.95</td>
     </tr>
     <tr>
-      <th>1980</th>
+      <th>530</th>
+      <td>9</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>32.52</td>
+    </tr>
+    <tr>
+      <th>531</th>
+      <td>9</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.41</td>
+    </tr>
+    <tr>
+      <th>532</th>
+      <td>9</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.79</td>
+    </tr>
+    <tr>
+      <th>533</th>
+      <td>9</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.19</td>
+    </tr>
+    <tr>
+      <th>534</th>
+      <td>9</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.62</td>
+    </tr>
+    <tr>
+      <th>535</th>
+      <td>9</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.86</td>
+    </tr>
+    <tr>
+      <th>536</th>
+      <td>9</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.91</td>
+    </tr>
+    <tr>
+      <th>537</th>
+      <td>9</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.33</td>
+    </tr>
+    <tr>
+      <th>538</th>
+      <td>9</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.01</td>
+    </tr>
+    <tr>
+      <th>539</th>
+      <td>9</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.81</td>
+    </tr>
+    <tr>
+      <th>1600</th>
       <td>9</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>14.14</td>
+      <td>11.41</td>
     </tr>
     <tr>
-      <th>2043</th>
+      <th>1601</th>
       <td>9</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>11.64</td>
     </tr>
     <tr>
-      <th>3052</th>
+      <th>1602</th>
+      <td>9</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.86</td>
+    </tr>
+    <tr>
+      <th>1603</th>
+      <td>9</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.98</td>
+    </tr>
+    <tr>
+      <th>1604</th>
+      <td>9</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.65</td>
+    </tr>
+    <tr>
+      <th>1605</th>
+      <td>9</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.73</td>
+    </tr>
+    <tr>
+      <th>1606</th>
+      <td>9</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.24</td>
+    </tr>
+    <tr>
+      <th>1607</th>
+      <td>9</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.27</td>
+    </tr>
+    <tr>
+      <th>1608</th>
+      <td>9</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>29.29</td>
+    </tr>
+    <tr>
+      <th>1609</th>
+      <td>9</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.46</td>
+    </tr>
+    <tr>
+      <th>1610</th>
+      <td>9</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.10</td>
+    </tr>
+    <tr>
+      <th>1611</th>
+      <td>9</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.20</td>
+    </tr>
+    <tr>
+      <th>2672</th>
       <td>9</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.60</td>
     </tr>
     <tr>
-      <th>3115</th>
+      <th>2673</th>
       <td>9</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>15.86</td>
+    </tr>
+    <tr>
+      <th>2674</th>
+      <td>9</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>29.13</td>
+    </tr>
+    <tr>
+      <th>2675</th>
+      <td>9</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>35.84</td>
+    </tr>
+    <tr>
+      <th>2676</th>
+      <td>9</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.64</td>
+    </tr>
+    <tr>
+      <th>2677</th>
+      <td>9</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.38</td>
+    </tr>
+    <tr>
+      <th>2678</th>
+      <td>9</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.00</td>
+    </tr>
+    <tr>
+      <th>2679</th>
+      <td>9</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.31</td>
+    </tr>
+    <tr>
+      <th>2680</th>
+      <td>9</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.49</td>
+    </tr>
+    <tr>
+      <th>2681</th>
+      <td>9</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.92</td>
+    </tr>
+    <tr>
+      <th>2682</th>
+      <td>9</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.51</td>
+    </tr>
+    <tr>
+      <th>2683</th>
+      <td>9</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.44</td>
     </tr>
   </tbody>
 </table>
@@ -622,52 +2782,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>909</th>
+      <th>540</th>
       <td>10</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>12.93</td>
+      <td>17.67</td>
     </tr>
     <tr>
-      <th>972</th>
+      <th>541</th>
       <td>10</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>22.61</td>
+      <td>18.79</td>
     </tr>
     <tr>
-      <th>1981</th>
+      <th>542</th>
+      <td>10</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>32.78</td>
+    </tr>
+    <tr>
+      <th>543</th>
+      <td>10</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.03</td>
+    </tr>
+    <tr>
+      <th>544</th>
+      <td>10</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.42</td>
+    </tr>
+    <tr>
+      <th>545</th>
+      <td>10</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.71</td>
+    </tr>
+    <tr>
+      <th>546</th>
+      <td>10</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.49</td>
+    </tr>
+    <tr>
+      <th>547</th>
+      <td>10</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>30.99</td>
+    </tr>
+    <tr>
+      <th>548</th>
+      <td>10</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>32.64</td>
+    </tr>
+    <tr>
+      <th>549</th>
+      <td>10</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.40</td>
+    </tr>
+    <tr>
+      <th>550</th>
+      <td>10</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.16</td>
+    </tr>
+    <tr>
+      <th>551</th>
+      <td>10</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.89</td>
+    </tr>
+    <tr>
+      <th>1612</th>
       <td>10</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>13.66</td>
+      <td>10.95</td>
     </tr>
     <tr>
-      <th>2044</th>
+      <th>1613</th>
       <td>10</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>13.70</td>
     </tr>
     <tr>
-      <th>3053</th>
+      <th>1614</th>
+      <td>10</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.54</td>
+    </tr>
+    <tr>
+      <th>1615</th>
+      <td>10</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.65</td>
+    </tr>
+    <tr>
+      <th>1616</th>
+      <td>10</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.85</td>
+    </tr>
+    <tr>
+      <th>1617</th>
+      <td>10</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.77</td>
+    </tr>
+    <tr>
+      <th>1618</th>
+      <td>10</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.23</td>
+    </tr>
+    <tr>
+      <th>1619</th>
+      <td>10</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.24</td>
+    </tr>
+    <tr>
+      <th>1620</th>
+      <td>10</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.58</td>
+    </tr>
+    <tr>
+      <th>1621</th>
+      <td>10</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.03</td>
+    </tr>
+    <tr>
+      <th>1622</th>
+      <td>10</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.67</td>
+    </tr>
+    <tr>
+      <th>1623</th>
+      <td>10</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>14.61</td>
+    </tr>
+    <tr>
+      <th>2684</th>
       <td>10</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.06</td>
     </tr>
     <tr>
-      <th>3116</th>
+      <th>2685</th>
       <td>10</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>15.34</td>
+    </tr>
+    <tr>
+      <th>2686</th>
+      <td>10</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.37</td>
+    </tr>
+    <tr>
+      <th>2687</th>
+      <td>10</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.96</td>
+    </tr>
+    <tr>
+      <th>2688</th>
+      <td>10</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>41.68</td>
+    </tr>
+    <tr>
+      <th>2689</th>
+      <td>10</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.41</td>
+    </tr>
+    <tr>
+      <th>2690</th>
+      <td>10</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.02</td>
+    </tr>
+    <tr>
+      <th>2691</th>
+      <td>10</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.42</td>
+    </tr>
+    <tr>
+      <th>2692</th>
+      <td>10</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.65</td>
+    </tr>
+    <tr>
+      <th>2693</th>
+      <td>10</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.20</td>
+    </tr>
+    <tr>
+      <th>2694</th>
+      <td>10</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.92</td>
+    </tr>
+    <tr>
+      <th>2695</th>
+      <td>10</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.91</td>
     </tr>
   </tbody>
 </table>
@@ -688,52 +3088,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>910</th>
+      <th>552</th>
       <td>11</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.83</td>
+      <td>11.92</td>
     </tr>
     <tr>
-      <th>973</th>
+      <th>553</th>
       <td>11</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>20.52</td>
+      <td>14.83</td>
     </tr>
     <tr>
-      <th>1982</th>
+      <th>554</th>
+      <td>11</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.74</td>
+    </tr>
+    <tr>
+      <th>555</th>
+      <td>11</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.90</td>
+    </tr>
+    <tr>
+      <th>556</th>
+      <td>11</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.65</td>
+    </tr>
+    <tr>
+      <th>557</th>
+      <td>11</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.34</td>
+    </tr>
+    <tr>
+      <th>558</th>
+      <td>11</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.17</td>
+    </tr>
+    <tr>
+      <th>559</th>
+      <td>11</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>45.18</td>
+    </tr>
+    <tr>
+      <th>560</th>
+      <td>11</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.22</td>
+    </tr>
+    <tr>
+      <th>561</th>
+      <td>11</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.25</td>
+    </tr>
+    <tr>
+      <th>562</th>
+      <td>11</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.62</td>
+    </tr>
+    <tr>
+      <th>563</th>
+      <td>11</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.78</td>
+    </tr>
+    <tr>
+      <th>1624</th>
       <td>11</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>16.31</td>
+      <td>11.00</td>
     </tr>
     <tr>
-      <th>2045</th>
+      <th>1625</th>
       <td>11</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>13.70</td>
     </tr>
     <tr>
-      <th>3054</th>
+      <th>1626</th>
+      <td>11</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.80</td>
+    </tr>
+    <tr>
+      <th>1627</th>
+      <td>11</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.84</td>
+    </tr>
+    <tr>
+      <th>1628</th>
+      <td>11</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.20</td>
+    </tr>
+    <tr>
+      <th>1629</th>
+      <td>11</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.04</td>
+    </tr>
+    <tr>
+      <th>1630</th>
+      <td>11</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.58</td>
+    </tr>
+    <tr>
+      <th>1631</th>
+      <td>11</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>47.28</td>
+    </tr>
+    <tr>
+      <th>1632</th>
+      <td>11</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.17</td>
+    </tr>
+    <tr>
+      <th>1633</th>
+      <td>11</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.51</td>
+    </tr>
+    <tr>
+      <th>1634</th>
+      <td>11</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.79</td>
+    </tr>
+    <tr>
+      <th>1635</th>
+      <td>11</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.14</td>
+    </tr>
+    <tr>
+      <th>2696</th>
       <td>11</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.82</td>
     </tr>
     <tr>
-      <th>3117</th>
+      <th>2697</th>
       <td>11</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>20.19</td>
+    </tr>
+    <tr>
+      <th>2698</th>
+      <td>11</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.24</td>
+    </tr>
+    <tr>
+      <th>2699</th>
+      <td>11</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.17</td>
+    </tr>
+    <tr>
+      <th>2700</th>
+      <td>11</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.24</td>
+    </tr>
+    <tr>
+      <th>2701</th>
+      <td>11</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.08</td>
+    </tr>
+    <tr>
+      <th>2702</th>
+      <td>11</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.19</td>
+    </tr>
+    <tr>
+      <th>2703</th>
+      <td>11</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.77</td>
+    </tr>
+    <tr>
+      <th>2704</th>
+      <td>11</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.28</td>
+    </tr>
+    <tr>
+      <th>2705</th>
+      <td>11</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.15</td>
+    </tr>
+    <tr>
+      <th>2706</th>
+      <td>11</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>14.31</td>
+    </tr>
+    <tr>
+      <th>2707</th>
+      <td>11</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.10</td>
     </tr>
   </tbody>
 </table>
@@ -754,52 +3394,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>911</th>
+      <th>564</th>
       <td>12</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>6.95</td>
+      <td>14.75</td>
     </tr>
     <tr>
-      <th>974</th>
+      <th>565</th>
       <td>12</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>18.10</td>
+      <td>16.41</td>
     </tr>
     <tr>
-      <th>1983</th>
+      <th>566</th>
+      <td>12</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>32.17</td>
+    </tr>
+    <tr>
+      <th>567</th>
+      <td>12</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.06</td>
+    </tr>
+    <tr>
+      <th>568</th>
+      <td>12</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.25</td>
+    </tr>
+    <tr>
+      <th>569</th>
+      <td>12</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.21</td>
+    </tr>
+    <tr>
+      <th>570</th>
+      <td>12</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.65</td>
+    </tr>
+    <tr>
+      <th>571</th>
+      <td>12</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.66</td>
+    </tr>
+    <tr>
+      <th>572</th>
+      <td>12</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.86</td>
+    </tr>
+    <tr>
+      <th>573</th>
+      <td>12</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.99</td>
+    </tr>
+    <tr>
+      <th>574</th>
+      <td>12</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>9.04</td>
+    </tr>
+    <tr>
+      <th>575</th>
+      <td>12</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.22</td>
+    </tr>
+    <tr>
+      <th>1636</th>
       <td>12</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>18.72</td>
+      <td>8.55</td>
     </tr>
     <tr>
-      <th>2046</th>
+      <th>1637</th>
       <td>12</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>15.64</td>
     </tr>
     <tr>
-      <th>3055</th>
+      <th>1638</th>
+      <td>12</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.78</td>
+    </tr>
+    <tr>
+      <th>1639</th>
+      <td>12</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.97</td>
+    </tr>
+    <tr>
+      <th>1640</th>
+      <td>12</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.30</td>
+    </tr>
+    <tr>
+      <th>1641</th>
+      <td>12</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.67</td>
+    </tr>
+    <tr>
+      <th>1642</th>
+      <td>12</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>49.84</td>
+    </tr>
+    <tr>
+      <th>1643</th>
+      <td>12</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.57</td>
+    </tr>
+    <tr>
+      <th>1644</th>
+      <td>12</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>32.40</td>
+    </tr>
+    <tr>
+      <th>1645</th>
+      <td>12</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.51</td>
+    </tr>
+    <tr>
+      <th>1646</th>
+      <td>12</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.22</td>
+    </tr>
+    <tr>
+      <th>1647</th>
+      <td>12</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.22</td>
+    </tr>
+    <tr>
+      <th>2708</th>
       <td>12</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>11.52</td>
     </tr>
     <tr>
-      <th>3118</th>
+      <th>2709</th>
       <td>12</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>17.17</td>
+    </tr>
+    <tr>
+      <th>2710</th>
+      <td>12</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.46</td>
+    </tr>
+    <tr>
+      <th>2711</th>
+      <td>12</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.72</td>
+    </tr>
+    <tr>
+      <th>2712</th>
+      <td>12</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.90</td>
+    </tr>
+    <tr>
+      <th>2713</th>
+      <td>12</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.07</td>
+    </tr>
+    <tr>
+      <th>2714</th>
+      <td>12</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>46.14</td>
+    </tr>
+    <tr>
+      <th>2715</th>
+      <td>12</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>41.54</td>
+    </tr>
+    <tr>
+      <th>2716</th>
+      <td>12</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.94</td>
+    </tr>
+    <tr>
+      <th>2717</th>
+      <td>12</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.85</td>
+    </tr>
+    <tr>
+      <th>2718</th>
+      <td>12</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.64</td>
+    </tr>
+    <tr>
+      <th>2719</th>
+      <td>12</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.69</td>
     </tr>
   </tbody>
 </table>
@@ -820,52 +3700,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>912</th>
+      <th>576</th>
       <td>13</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>3.12</td>
+      <td>0.24</td>
     </tr>
     <tr>
-      <th>975</th>
+      <th>577</th>
       <td>13</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>14.96</td>
+      <td>1.16</td>
     </tr>
     <tr>
-      <th>1984</th>
+      <th>578</th>
+      <td>13</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.61</td>
+    </tr>
+    <tr>
+      <th>579</th>
+      <td>13</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.00</td>
+    </tr>
+    <tr>
+      <th>580</th>
+      <td>13</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>40.58</td>
+    </tr>
+    <tr>
+      <th>581</th>
+      <td>13</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.81</td>
+    </tr>
+    <tr>
+      <th>582</th>
+      <td>13</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.11</td>
+    </tr>
+    <tr>
+      <th>583</th>
+      <td>13</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.74</td>
+    </tr>
+    <tr>
+      <th>584</th>
+      <td>13</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.29</td>
+    </tr>
+    <tr>
+      <th>585</th>
+      <td>13</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.02</td>
+    </tr>
+    <tr>
+      <th>586</th>
+      <td>13</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.02</td>
+    </tr>
+    <tr>
+      <th>587</th>
+      <td>13</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.24</td>
+    </tr>
+    <tr>
+      <th>1648</th>
       <td>13</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>19.07</td>
+      <td>3.85</td>
     </tr>
     <tr>
-      <th>2047</th>
+      <th>1649</th>
       <td>13</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>6.06</td>
     </tr>
     <tr>
-      <th>3056</th>
+      <th>1650</th>
+      <td>13</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.08</td>
+    </tr>
+    <tr>
+      <th>1651</th>
+      <td>13</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.95</td>
+    </tr>
+    <tr>
+      <th>1652</th>
+      <td>13</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.99</td>
+    </tr>
+    <tr>
+      <th>1653</th>
+      <td>13</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.94</td>
+    </tr>
+    <tr>
+      <th>1654</th>
+      <td>13</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.61</td>
+    </tr>
+    <tr>
+      <th>1655</th>
+      <td>13</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.10</td>
+    </tr>
+    <tr>
+      <th>1656</th>
+      <td>13</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.69</td>
+    </tr>
+    <tr>
+      <th>1657</th>
+      <td>13</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.25</td>
+    </tr>
+    <tr>
+      <th>1658</th>
+      <td>13</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.39</td>
+    </tr>
+    <tr>
+      <th>1659</th>
+      <td>13</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>6.38</td>
+    </tr>
+    <tr>
+      <th>2720</th>
       <td>13</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>10.86</td>
     </tr>
     <tr>
-      <th>3119</th>
+      <th>2721</th>
       <td>13</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>21.20</td>
+    </tr>
+    <tr>
+      <th>2722</th>
+      <td>13</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.86</td>
+    </tr>
+    <tr>
+      <th>2723</th>
+      <td>13</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.59</td>
+    </tr>
+    <tr>
+      <th>2724</th>
+      <td>13</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.72</td>
+    </tr>
+    <tr>
+      <th>2725</th>
+      <td>13</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.46</td>
+    </tr>
+    <tr>
+      <th>2726</th>
+      <td>13</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.00</td>
+    </tr>
+    <tr>
+      <th>2727</th>
+      <td>13</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.29</td>
+    </tr>
+    <tr>
+      <th>2728</th>
+      <td>13</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>29.04</td>
+    </tr>
+    <tr>
+      <th>2729</th>
+      <td>13</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>20.05</td>
+    </tr>
+    <tr>
+      <th>2730</th>
+      <td>13</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.92</td>
+    </tr>
+    <tr>
+      <th>2731</th>
+      <td>13</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>10.33</td>
     </tr>
   </tbody>
 </table>
@@ -886,52 +4006,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>913</th>
+      <th>588</th>
       <td>14</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.35</td>
+      <td>0.01</td>
     </tr>
     <tr>
-      <th>976</th>
+      <th>589</th>
       <td>14</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>5.32</td>
+      <td>0.00</td>
     </tr>
     <tr>
-      <th>1985</th>
+      <th>590</th>
+      <td>14</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.03</td>
+    </tr>
+    <tr>
+      <th>591</th>
+      <td>14</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>17.51</td>
+    </tr>
+    <tr>
+      <th>592</th>
+      <td>14</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.87</td>
+    </tr>
+    <tr>
+      <th>593</th>
+      <td>14</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.27</td>
+    </tr>
+    <tr>
+      <th>594</th>
+      <td>14</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>40.02</td>
+    </tr>
+    <tr>
+      <th>595</th>
+      <td>14</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.85</td>
+    </tr>
+    <tr>
+      <th>596</th>
+      <td>14</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.76</td>
+    </tr>
+    <tr>
+      <th>597</th>
+      <td>14</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.02</td>
+    </tr>
+    <tr>
+      <th>598</th>
+      <td>14</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.88</td>
+    </tr>
+    <tr>
+      <th>599</th>
+      <td>14</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>0.61</td>
+    </tr>
+    <tr>
+      <th>1660</th>
       <td>14</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>18.46</td>
+      <td>0.81</td>
     </tr>
     <tr>
-      <th>2048</th>
+      <th>1661</th>
       <td>14</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>0.00</td>
     </tr>
     <tr>
-      <th>3057</th>
+      <th>1662</th>
+      <td>14</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>5.08</td>
+    </tr>
+    <tr>
+      <th>1663</th>
+      <td>14</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>32.63</td>
+    </tr>
+    <tr>
+      <th>1664</th>
+      <td>14</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.13</td>
+    </tr>
+    <tr>
+      <th>1665</th>
+      <td>14</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>40.50</td>
+    </tr>
+    <tr>
+      <th>1666</th>
+      <td>14</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.96</td>
+    </tr>
+    <tr>
+      <th>1667</th>
+      <td>14</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.38</td>
+    </tr>
+    <tr>
+      <th>1668</th>
+      <td>14</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.88</td>
+    </tr>
+    <tr>
+      <th>1669</th>
+      <td>14</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.50</td>
+    </tr>
+    <tr>
+      <th>1670</th>
+      <td>14</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.09</td>
+    </tr>
+    <tr>
+      <th>1671</th>
+      <td>14</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>0.62</td>
+    </tr>
+    <tr>
+      <th>2732</th>
       <td>14</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>8.37</td>
     </tr>
     <tr>
-      <th>3120</th>
+      <th>2733</th>
       <td>14</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.94</td>
+    </tr>
+    <tr>
+      <th>2734</th>
+      <td>14</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.34</td>
+    </tr>
+    <tr>
+      <th>2735</th>
+      <td>14</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.10</td>
+    </tr>
+    <tr>
+      <th>2736</th>
+      <td>14</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.88</td>
+    </tr>
+    <tr>
+      <th>2737</th>
+      <td>14</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.61</td>
+    </tr>
+    <tr>
+      <th>2738</th>
+      <td>14</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.75</td>
+    </tr>
+    <tr>
+      <th>2739</th>
+      <td>14</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.73</td>
+    </tr>
+    <tr>
+      <th>2740</th>
+      <td>14</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.61</td>
+    </tr>
+    <tr>
+      <th>2741</th>
+      <td>14</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.35</td>
+    </tr>
+    <tr>
+      <th>2742</th>
+      <td>14</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.46</td>
+    </tr>
+    <tr>
+      <th>2743</th>
+      <td>14</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.98</td>
     </tr>
   </tbody>
 </table>
@@ -952,52 +4312,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>914</th>
+      <th>600</th>
       <td>15</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>5.84</td>
+      <td>16.29</td>
     </tr>
     <tr>
-      <th>977</th>
+      <th>601</th>
       <td>15</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>17.12</td>
+      <td>18.02</td>
     </tr>
     <tr>
-      <th>1986</th>
+      <th>602</th>
+      <td>15</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.31</td>
+    </tr>
+    <tr>
+      <th>603</th>
+      <td>15</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.24</td>
+    </tr>
+    <tr>
+      <th>604</th>
+      <td>15</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.49</td>
+    </tr>
+    <tr>
+      <th>605</th>
+      <td>15</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.69</td>
+    </tr>
+    <tr>
+      <th>606</th>
+      <td>15</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.59</td>
+    </tr>
+    <tr>
+      <th>607</th>
+      <td>15</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.42</td>
+    </tr>
+    <tr>
+      <th>608</th>
+      <td>15</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.01</td>
+    </tr>
+    <tr>
+      <th>609</th>
+      <td>15</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.05</td>
+    </tr>
+    <tr>
+      <th>610</th>
+      <td>15</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>12.26</td>
+    </tr>
+    <tr>
+      <th>611</th>
+      <td>15</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.18</td>
+    </tr>
+    <tr>
+      <th>1672</th>
       <td>15</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>15.46</td>
+      <td>11.85</td>
     </tr>
     <tr>
-      <th>2049</th>
+      <th>1673</th>
       <td>15</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>8.75</td>
     </tr>
     <tr>
-      <th>3058</th>
+      <th>1674</th>
+      <td>15</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.58</td>
+    </tr>
+    <tr>
+      <th>1675</th>
+      <td>15</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.27</td>
+    </tr>
+    <tr>
+      <th>1676</th>
+      <td>15</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.43</td>
+    </tr>
+    <tr>
+      <th>1677</th>
+      <td>15</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.50</td>
+    </tr>
+    <tr>
+      <th>1678</th>
+      <td>15</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>49.57</td>
+    </tr>
+    <tr>
+      <th>1679</th>
+      <td>15</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.89</td>
+    </tr>
+    <tr>
+      <th>1680</th>
+      <td>15</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.24</td>
+    </tr>
+    <tr>
+      <th>1681</th>
+      <td>15</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.46</td>
+    </tr>
+    <tr>
+      <th>1682</th>
+      <td>15</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.03</td>
+    </tr>
+    <tr>
+      <th>1683</th>
+      <td>15</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>8.06</td>
+    </tr>
+    <tr>
+      <th>2744</th>
       <td>15</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.70</td>
     </tr>
     <tr>
-      <th>3121</th>
+      <th>2745</th>
       <td>15</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>19.76</td>
+    </tr>
+    <tr>
+      <th>2746</th>
+      <td>15</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.78</td>
+    </tr>
+    <tr>
+      <th>2747</th>
+      <td>15</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.83</td>
+    </tr>
+    <tr>
+      <th>2748</th>
+      <td>15</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.31</td>
+    </tr>
+    <tr>
+      <th>2749</th>
+      <td>15</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.01</td>
+    </tr>
+    <tr>
+      <th>2750</th>
+      <td>15</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.01</td>
+    </tr>
+    <tr>
+      <th>2751</th>
+      <td>15</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.86</td>
+    </tr>
+    <tr>
+      <th>2752</th>
+      <td>15</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.45</td>
+    </tr>
+    <tr>
+      <th>2753</th>
+      <td>15</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.73</td>
+    </tr>
+    <tr>
+      <th>2754</th>
+      <td>15</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>14.92</td>
+    </tr>
+    <tr>
+      <th>2755</th>
+      <td>15</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.03</td>
     </tr>
   </tbody>
 </table>
@@ -1018,52 +4618,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>915</th>
+      <th>612</th>
       <td>16</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>2.99</td>
+      <td>8.28</td>
     </tr>
     <tr>
-      <th>978</th>
+      <th>613</th>
       <td>16</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>10.26</td>
+      <td>20.14</td>
     </tr>
     <tr>
-      <th>1987</th>
+      <th>614</th>
+      <td>16</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.24</td>
+    </tr>
+    <tr>
+      <th>615</th>
+      <td>16</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.20</td>
+    </tr>
+    <tr>
+      <th>616</th>
+      <td>16</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.41</td>
+    </tr>
+    <tr>
+      <th>617</th>
+      <td>16</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.36</td>
+    </tr>
+    <tr>
+      <th>618</th>
+      <td>16</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.43</td>
+    </tr>
+    <tr>
+      <th>619</th>
+      <td>16</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.35</td>
+    </tr>
+    <tr>
+      <th>620</th>
+      <td>16</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.31</td>
+    </tr>
+    <tr>
+      <th>621</th>
+      <td>16</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.01</td>
+    </tr>
+    <tr>
+      <th>622</th>
+      <td>16</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.27</td>
+    </tr>
+    <tr>
+      <th>623</th>
+      <td>16</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.25</td>
+    </tr>
+    <tr>
+      <th>1684</th>
       <td>16</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>14.81</td>
+      <td>6.77</td>
     </tr>
     <tr>
-      <th>2050</th>
+      <th>1685</th>
       <td>16</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>6.35</td>
     </tr>
     <tr>
-      <th>3059</th>
+      <th>1686</th>
+      <td>16</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>29.27</td>
+    </tr>
+    <tr>
+      <th>1687</th>
+      <td>16</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.21</td>
+    </tr>
+    <tr>
+      <th>1688</th>
+      <td>16</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.25</td>
+    </tr>
+    <tr>
+      <th>1689</th>
+      <td>16</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.46</td>
+    </tr>
+    <tr>
+      <th>1690</th>
+      <td>16</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>48.24</td>
+    </tr>
+    <tr>
+      <th>1691</th>
+      <td>16</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.95</td>
+    </tr>
+    <tr>
+      <th>1692</th>
+      <td>16</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.43</td>
+    </tr>
+    <tr>
+      <th>1693</th>
+      <td>16</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.68</td>
+    </tr>
+    <tr>
+      <th>1694</th>
+      <td>16</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.71</td>
+    </tr>
+    <tr>
+      <th>1695</th>
+      <td>16</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.01</td>
+    </tr>
+    <tr>
+      <th>2756</th>
       <td>16</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>12.35</td>
     </tr>
     <tr>
-      <th>3122</th>
+      <th>2757</th>
       <td>16</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>17.22</td>
+    </tr>
+    <tr>
+      <th>2758</th>
+      <td>16</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>29.46</td>
+    </tr>
+    <tr>
+      <th>2759</th>
+      <td>16</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.97</td>
+    </tr>
+    <tr>
+      <th>2760</th>
+      <td>16</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.57</td>
+    </tr>
+    <tr>
+      <th>2761</th>
+      <td>16</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.51</td>
+    </tr>
+    <tr>
+      <th>2762</th>
+      <td>16</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.40</td>
+    </tr>
+    <tr>
+      <th>2763</th>
+      <td>16</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.30</td>
+    </tr>
+    <tr>
+      <th>2764</th>
+      <td>16</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.90</td>
+    </tr>
+    <tr>
+      <th>2765</th>
+      <td>16</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.71</td>
+    </tr>
+    <tr>
+      <th>2766</th>
+      <td>16</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.08</td>
+    </tr>
+    <tr>
+      <th>2767</th>
+      <td>16</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.82</td>
     </tr>
   </tbody>
 </table>
@@ -1084,52 +4924,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>916</th>
+      <th>624</th>
       <td>17</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>3.55</td>
+      <td>12.43</td>
     </tr>
     <tr>
-      <th>979</th>
+      <th>625</th>
       <td>17</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>19.57</td>
+      <td>14.82</td>
     </tr>
     <tr>
-      <th>1988</th>
+      <th>626</th>
+      <td>17</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.00</td>
+    </tr>
+    <tr>
+      <th>627</th>
+      <td>17</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>26.12</td>
+    </tr>
+    <tr>
+      <th>628</th>
+      <td>17</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.95</td>
+    </tr>
+    <tr>
+      <th>629</th>
+      <td>17</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>39.89</td>
+    </tr>
+    <tr>
+      <th>630</th>
+      <td>17</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.44</td>
+    </tr>
+    <tr>
+      <th>631</th>
+      <td>17</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.73</td>
+    </tr>
+    <tr>
+      <th>632</th>
+      <td>17</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.72</td>
+    </tr>
+    <tr>
+      <th>633</th>
+      <td>17</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.03</td>
+    </tr>
+    <tr>
+      <th>634</th>
+      <td>17</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.61</td>
+    </tr>
+    <tr>
+      <th>635</th>
+      <td>17</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.53</td>
+    </tr>
+    <tr>
+      <th>1696</th>
       <td>17</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>18.62</td>
+      <td>3.02</td>
     </tr>
     <tr>
-      <th>2051</th>
+      <th>1697</th>
       <td>17</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>7.04</td>
     </tr>
     <tr>
-      <th>3060</th>
+      <th>1698</th>
+      <td>17</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.76</td>
+    </tr>
+    <tr>
+      <th>1699</th>
+      <td>17</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.26</td>
+    </tr>
+    <tr>
+      <th>1700</th>
+      <td>17</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.87</td>
+    </tr>
+    <tr>
+      <th>1701</th>
+      <td>17</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.24</td>
+    </tr>
+    <tr>
+      <th>1702</th>
+      <td>17</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>49.31</td>
+    </tr>
+    <tr>
+      <th>1703</th>
+      <td>17</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.69</td>
+    </tr>
+    <tr>
+      <th>1704</th>
+      <td>17</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>29.80</td>
+    </tr>
+    <tr>
+      <th>1705</th>
+      <td>17</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.89</td>
+    </tr>
+    <tr>
+      <th>1706</th>
+      <td>17</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.80</td>
+    </tr>
+    <tr>
+      <th>1707</th>
+      <td>17</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.85</td>
+    </tr>
+    <tr>
+      <th>2768</th>
       <td>17</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>3.34</td>
     </tr>
     <tr>
-      <th>3123</th>
+      <th>2769</th>
       <td>17</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>11.05</td>
+    </tr>
+    <tr>
+      <th>2770</th>
+      <td>17</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.06</td>
+    </tr>
+    <tr>
+      <th>2771</th>
+      <td>17</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.03</td>
+    </tr>
+    <tr>
+      <th>2772</th>
+      <td>17</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>41.87</td>
+    </tr>
+    <tr>
+      <th>2773</th>
+      <td>17</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.15</td>
+    </tr>
+    <tr>
+      <th>2774</th>
+      <td>17</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>46.21</td>
+    </tr>
+    <tr>
+      <th>2775</th>
+      <td>17</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.93</td>
+    </tr>
+    <tr>
+      <th>2776</th>
+      <td>17</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.07</td>
+    </tr>
+    <tr>
+      <th>2777</th>
+      <td>17</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.69</td>
+    </tr>
+    <tr>
+      <th>2778</th>
+      <td>17</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.46</td>
+    </tr>
+    <tr>
+      <th>2779</th>
+      <td>17</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>6.88</td>
     </tr>
   </tbody>
 </table>
@@ -1150,52 +5230,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>917</th>
+      <th>636</th>
       <td>18</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.59</td>
+      <td>2.74</td>
     </tr>
     <tr>
-      <th>980</th>
+      <th>637</th>
       <td>18</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.82</td>
+      <td>6.23</td>
     </tr>
     <tr>
-      <th>1989</th>
+      <th>638</th>
+      <td>18</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.64</td>
+    </tr>
+    <tr>
+      <th>639</th>
+      <td>18</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.79</td>
+    </tr>
+    <tr>
+      <th>640</th>
+      <td>18</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.94</td>
+    </tr>
+    <tr>
+      <th>641</th>
+      <td>18</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.04</td>
+    </tr>
+    <tr>
+      <th>642</th>
+      <td>18</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.56</td>
+    </tr>
+    <tr>
+      <th>643</th>
+      <td>18</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>45.50</td>
+    </tr>
+    <tr>
+      <th>644</th>
+      <td>18</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.94</td>
+    </tr>
+    <tr>
+      <th>645</th>
+      <td>18</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.59</td>
+    </tr>
+    <tr>
+      <th>646</th>
+      <td>18</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.10</td>
+    </tr>
+    <tr>
+      <th>647</th>
+      <td>18</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>4.56</td>
+    </tr>
+    <tr>
+      <th>1708</th>
       <td>18</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>9.65</td>
+      <td>6.92</td>
     </tr>
     <tr>
-      <th>2052</th>
+      <th>1709</th>
       <td>18</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>13.42</td>
     </tr>
     <tr>
-      <th>3061</th>
+      <th>1710</th>
+      <td>18</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.02</td>
+    </tr>
+    <tr>
+      <th>1711</th>
+      <td>18</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.87</td>
+    </tr>
+    <tr>
+      <th>1712</th>
+      <td>18</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>32.33</td>
+    </tr>
+    <tr>
+      <th>1713</th>
+      <td>18</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.10</td>
+    </tr>
+    <tr>
+      <th>1714</th>
+      <td>18</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>47.52</td>
+    </tr>
+    <tr>
+      <th>1715</th>
+      <td>18</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>40.67</td>
+    </tr>
+    <tr>
+      <th>1716</th>
+      <td>18</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.82</td>
+    </tr>
+    <tr>
+      <th>1717</th>
+      <td>18</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.93</td>
+    </tr>
+    <tr>
+      <th>1718</th>
+      <td>18</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.05</td>
+    </tr>
+    <tr>
+      <th>1719</th>
+      <td>18</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>4.44</td>
+    </tr>
+    <tr>
+      <th>2780</th>
       <td>18</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>11.91</td>
     </tr>
     <tr>
-      <th>3124</th>
+      <th>2781</th>
       <td>18</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>18.79</td>
+    </tr>
+    <tr>
+      <th>2782</th>
+      <td>18</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.51</td>
+    </tr>
+    <tr>
+      <th>2783</th>
+      <td>18</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.09</td>
+    </tr>
+    <tr>
+      <th>2784</th>
+      <td>18</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.00</td>
+    </tr>
+    <tr>
+      <th>2785</th>
+      <td>18</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.97</td>
+    </tr>
+    <tr>
+      <th>2786</th>
+      <td>18</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.28</td>
+    </tr>
+    <tr>
+      <th>2787</th>
+      <td>18</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.31</td>
+    </tr>
+    <tr>
+      <th>2788</th>
+      <td>18</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.70</td>
+    </tr>
+    <tr>
+      <th>2789</th>
+      <td>18</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.57</td>
+    </tr>
+    <tr>
+      <th>2790</th>
+      <td>18</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.51</td>
+    </tr>
+    <tr>
+      <th>2791</th>
+      <td>18</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.94</td>
     </tr>
   </tbody>
 </table>
@@ -1216,52 +5536,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>918</th>
+      <th>648</th>
       <td>19</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>15.88</td>
+      <td>2.02</td>
     </tr>
     <tr>
-      <th>981</th>
+      <th>649</th>
       <td>19</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>32.47</td>
+      <td>19.80</td>
     </tr>
     <tr>
-      <th>1990</th>
+      <th>650</th>
+      <td>19</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>58.28</td>
+    </tr>
+    <tr>
+      <th>651</th>
+      <td>19</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>66.79</td>
+    </tr>
+    <tr>
+      <th>652</th>
+      <td>19</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>78.10</td>
+    </tr>
+    <tr>
+      <th>653</th>
+      <td>19</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>89.11</td>
+    </tr>
+    <tr>
+      <th>654</th>
+      <td>19</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>99.93</td>
+    </tr>
+    <tr>
+      <th>655</th>
+      <td>19</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>90.28</td>
+    </tr>
+    <tr>
+      <th>656</th>
+      <td>19</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>64.86</td>
+    </tr>
+    <tr>
+      <th>657</th>
+      <td>19</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.97</td>
+    </tr>
+    <tr>
+      <th>658</th>
+      <td>19</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.55</td>
+    </tr>
+    <tr>
+      <th>659</th>
+      <td>19</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.20</td>
+    </tr>
+    <tr>
+      <th>1720</th>
       <td>19</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>16.58</td>
+      <td>1.04</td>
     </tr>
     <tr>
-      <th>2053</th>
+      <th>1721</th>
       <td>19</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>13.65</td>
     </tr>
     <tr>
-      <th>3062</th>
+      <th>1722</th>
+      <td>19</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>50.94</td>
+    </tr>
+    <tr>
+      <th>1723</th>
+      <td>19</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>65.39</td>
+    </tr>
+    <tr>
+      <th>1724</th>
+      <td>19</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>73.01</td>
+    </tr>
+    <tr>
+      <th>1725</th>
+      <td>19</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>85.43</td>
+    </tr>
+    <tr>
+      <th>1726</th>
+      <td>19</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>97.53</td>
+    </tr>
+    <tr>
+      <th>1727</th>
+      <td>19</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>90.58</td>
+    </tr>
+    <tr>
+      <th>1728</th>
+      <td>19</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>63.86</td>
+    </tr>
+    <tr>
+      <th>1729</th>
+      <td>19</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>49.15</td>
+    </tr>
+    <tr>
+      <th>1730</th>
+      <td>19</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>21.47</td>
+    </tr>
+    <tr>
+      <th>1731</th>
+      <td>19</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>20.95</td>
+    </tr>
+    <tr>
+      <th>2792</th>
       <td>19</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>18.90</td>
     </tr>
     <tr>
-      <th>3125</th>
+      <th>2793</th>
       <td>19</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>27.15</td>
+    </tr>
+    <tr>
+      <th>2794</th>
+      <td>19</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>56.74</td>
+    </tr>
+    <tr>
+      <th>2795</th>
+      <td>19</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>69.04</td>
+    </tr>
+    <tr>
+      <th>2796</th>
+      <td>19</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>83.53</td>
+    </tr>
+    <tr>
+      <th>2797</th>
+      <td>19</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>88.69</td>
+    </tr>
+    <tr>
+      <th>2798</th>
+      <td>19</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>89.08</td>
+    </tr>
+    <tr>
+      <th>2799</th>
+      <td>19</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>74.43</td>
+    </tr>
+    <tr>
+      <th>2800</th>
+      <td>19</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>66.86</td>
+    </tr>
+    <tr>
+      <th>2801</th>
+      <td>19</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>48.75</td>
+    </tr>
+    <tr>
+      <th>2802</th>
+      <td>19</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.85</td>
+    </tr>
+    <tr>
+      <th>2803</th>
+      <td>19</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>20.62</td>
     </tr>
   </tbody>
 </table>
@@ -1282,52 +5842,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>919</th>
+      <th>660</th>
       <td>20</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>16.53</td>
+      <td>1.97</td>
     </tr>
     <tr>
-      <th>982</th>
+      <th>661</th>
       <td>20</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>31.50</td>
+      <td>13.49</td>
     </tr>
     <tr>
-      <th>1991</th>
+      <th>662</th>
+      <td>20</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>53.80</td>
+    </tr>
+    <tr>
+      <th>663</th>
+      <td>20</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>65.96</td>
+    </tr>
+    <tr>
+      <th>664</th>
+      <td>20</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>71.03</td>
+    </tr>
+    <tr>
+      <th>665</th>
+      <td>20</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>91.00</td>
+    </tr>
+    <tr>
+      <th>666</th>
+      <td>20</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>100.15</td>
+    </tr>
+    <tr>
+      <th>667</th>
+      <td>20</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>91.48</td>
+    </tr>
+    <tr>
+      <th>668</th>
+      <td>20</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>60.62</td>
+    </tr>
+    <tr>
+      <th>669</th>
+      <td>20</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.61</td>
+    </tr>
+    <tr>
+      <th>670</th>
+      <td>20</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>17.96</td>
+    </tr>
+    <tr>
+      <th>671</th>
+      <td>20</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.47</td>
+    </tr>
+    <tr>
+      <th>1732</th>
       <td>20</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>23.34</td>
+      <td>0.59</td>
     </tr>
     <tr>
-      <th>2054</th>
+      <th>1733</th>
       <td>20</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>8.19</td>
     </tr>
     <tr>
-      <th>3063</th>
+      <th>1734</th>
+      <td>20</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>50.28</td>
+    </tr>
+    <tr>
+      <th>1735</th>
+      <td>20</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>65.47</td>
+    </tr>
+    <tr>
+      <th>1736</th>
+      <td>20</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.55</td>
+    </tr>
+    <tr>
+      <th>1737</th>
+      <td>20</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>88.09</td>
+    </tr>
+    <tr>
+      <th>1738</th>
+      <td>20</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>98.84</td>
+    </tr>
+    <tr>
+      <th>1739</th>
+      <td>20</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>91.15</td>
+    </tr>
+    <tr>
+      <th>1740</th>
+      <td>20</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>61.62</td>
+    </tr>
+    <tr>
+      <th>1741</th>
+      <td>20</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.19</td>
+    </tr>
+    <tr>
+      <th>1742</th>
+      <td>20</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.56</td>
+    </tr>
+    <tr>
+      <th>1743</th>
+      <td>20</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>19.04</td>
+    </tr>
+    <tr>
+      <th>2804</th>
       <td>20</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.57</td>
     </tr>
     <tr>
-      <th>3126</th>
+      <th>2805</th>
       <td>20</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>19.00</td>
+    </tr>
+    <tr>
+      <th>2806</th>
+      <td>20</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>51.27</td>
+    </tr>
+    <tr>
+      <th>2807</th>
+      <td>20</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>65.65</td>
+    </tr>
+    <tr>
+      <th>2808</th>
+      <td>20</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>80.97</td>
+    </tr>
+    <tr>
+      <th>2809</th>
+      <td>20</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>87.94</td>
+    </tr>
+    <tr>
+      <th>2810</th>
+      <td>20</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>88.54</td>
+    </tr>
+    <tr>
+      <th>2811</th>
+      <td>20</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>72.46</td>
+    </tr>
+    <tr>
+      <th>2812</th>
+      <td>20</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>62.87</td>
+    </tr>
+    <tr>
+      <th>2813</th>
+      <td>20</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.89</td>
+    </tr>
+    <tr>
+      <th>2814</th>
+      <td>20</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.29</td>
+    </tr>
+    <tr>
+      <th>2815</th>
+      <td>20</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.12</td>
     </tr>
   </tbody>
 </table>
@@ -1348,52 +6148,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>920</th>
+      <th>672</th>
       <td>21</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>10.09</td>
+      <td>0.96</td>
     </tr>
     <tr>
-      <th>983</th>
+      <th>673</th>
       <td>21</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>19.54</td>
+      <td>7.75</td>
     </tr>
     <tr>
-      <th>1992</th>
+      <th>674</th>
+      <td>21</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.54</td>
+    </tr>
+    <tr>
+      <th>675</th>
+      <td>21</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.10</td>
+    </tr>
+    <tr>
+      <th>676</th>
+      <td>21</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.16</td>
+    </tr>
+    <tr>
+      <th>677</th>
+      <td>21</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>59.96</td>
+    </tr>
+    <tr>
+      <th>678</th>
+      <td>21</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>65.99</td>
+    </tr>
+    <tr>
+      <th>679</th>
+      <td>21</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>61.02</td>
+    </tr>
+    <tr>
+      <th>680</th>
+      <td>21</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>40.48</td>
+    </tr>
+    <tr>
+      <th>681</th>
+      <td>21</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>28.75</td>
+    </tr>
+    <tr>
+      <th>682</th>
+      <td>21</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.68</td>
+    </tr>
+    <tr>
+      <th>683</th>
+      <td>21</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>12.26</td>
+    </tr>
+    <tr>
+      <th>1744</th>
       <td>21</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>14.46</td>
+      <td>0.36</td>
     </tr>
     <tr>
-      <th>2055</th>
+      <th>1745</th>
       <td>21</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>4.53</td>
     </tr>
     <tr>
-      <th>3064</th>
+      <th>1746</th>
+      <td>21</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>32.26</td>
+    </tr>
+    <tr>
+      <th>1747</th>
+      <td>21</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.05</td>
+    </tr>
+    <tr>
+      <th>1748</th>
+      <td>21</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.96</td>
+    </tr>
+    <tr>
+      <th>1749</th>
+      <td>21</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>56.69</td>
+    </tr>
+    <tr>
+      <th>1750</th>
+      <td>21</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>63.53</td>
+    </tr>
+    <tr>
+      <th>1751</th>
+      <td>21</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>58.51</td>
+    </tr>
+    <tr>
+      <th>1752</th>
+      <td>21</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>39.52</td>
+    </tr>
+    <tr>
+      <th>1753</th>
+      <td>21</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.19</td>
+    </tr>
+    <tr>
+      <th>1754</th>
+      <td>21</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.71</td>
+    </tr>
+    <tr>
+      <th>1755</th>
+      <td>21</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.33</td>
+    </tr>
+    <tr>
+      <th>2816</th>
       <td>21</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>9.00</td>
     </tr>
     <tr>
-      <th>3127</th>
+      <th>2817</th>
       <td>21</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>11.90</td>
+    </tr>
+    <tr>
+      <th>2818</th>
+      <td>21</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.15</td>
+    </tr>
+    <tr>
+      <th>2819</th>
+      <td>21</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.45</td>
+    </tr>
+    <tr>
+      <th>2820</th>
+      <td>21</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>52.43</td>
+    </tr>
+    <tr>
+      <th>2821</th>
+      <td>21</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>56.89</td>
+    </tr>
+    <tr>
+      <th>2822</th>
+      <td>21</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>57.20</td>
+    </tr>
+    <tr>
+      <th>2823</th>
+      <td>21</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>46.84</td>
+    </tr>
+    <tr>
+      <th>2824</th>
+      <td>21</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.90</td>
+    </tr>
+    <tr>
+      <th>2825</th>
+      <td>21</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.49</td>
+    </tr>
+    <tr>
+      <th>2826</th>
+      <td>21</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>14.94</td>
+    </tr>
+    <tr>
+      <th>2827</th>
+      <td>21</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>10.22</td>
     </tr>
   </tbody>
 </table>
@@ -1414,52 +6454,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>921</th>
+      <th>684</th>
       <td>22</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>21.42</td>
+      <td>2.37</td>
     </tr>
     <tr>
-      <th>984</th>
+      <th>685</th>
       <td>22</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>33.98</td>
+      <td>16.33</td>
     </tr>
     <tr>
-      <th>1993</th>
+      <th>686</th>
+      <td>22</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>62.29</td>
+    </tr>
+    <tr>
+      <th>687</th>
+      <td>22</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>69.46</td>
+    </tr>
+    <tr>
+      <th>688</th>
+      <td>22</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>77.44</td>
+    </tr>
+    <tr>
+      <th>689</th>
+      <td>22</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>91.48</td>
+    </tr>
+    <tr>
+      <th>690</th>
+      <td>22</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>101.90</td>
+    </tr>
+    <tr>
+      <th>691</th>
+      <td>22</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>94.74</td>
+    </tr>
+    <tr>
+      <th>692</th>
+      <td>22</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>66.16</td>
+    </tr>
+    <tr>
+      <th>693</th>
+      <td>22</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>48.83</td>
+    </tr>
+    <tr>
+      <th>694</th>
+      <td>22</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.11</td>
+    </tr>
+    <tr>
+      <th>695</th>
+      <td>22</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.91</td>
+    </tr>
+    <tr>
+      <th>1756</th>
       <td>22</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>20.73</td>
+      <td>0.83</td>
     </tr>
     <tr>
-      <th>2056</th>
+      <th>1757</th>
       <td>22</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>9.95</td>
     </tr>
     <tr>
-      <th>3065</th>
+      <th>1758</th>
+      <td>22</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>57.36</td>
+    </tr>
+    <tr>
+      <th>1759</th>
+      <td>22</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>47.67</td>
+    </tr>
+    <tr>
+      <th>1760</th>
+      <td>22</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>71.27</td>
+    </tr>
+    <tr>
+      <th>1761</th>
+      <td>22</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>88.47</td>
+    </tr>
+    <tr>
+      <th>1762</th>
+      <td>22</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>97.12</td>
+    </tr>
+    <tr>
+      <th>1763</th>
+      <td>22</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>90.67</td>
+    </tr>
+    <tr>
+      <th>1764</th>
+      <td>22</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>64.29</td>
+    </tr>
+    <tr>
+      <th>1765</th>
+      <td>22</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.31</td>
+    </tr>
+    <tr>
+      <th>1766</th>
+      <td>22</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>20.31</td>
+    </tr>
+    <tr>
+      <th>1767</th>
+      <td>22</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.45</td>
+    </tr>
+    <tr>
+      <th>2828</th>
       <td>22</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>16.75</td>
     </tr>
     <tr>
-      <th>3128</th>
+      <th>2829</th>
       <td>22</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>23.93</td>
+    </tr>
+    <tr>
+      <th>2830</th>
+      <td>22</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>54.89</td>
+    </tr>
+    <tr>
+      <th>2831</th>
+      <td>22</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>69.92</td>
+    </tr>
+    <tr>
+      <th>2832</th>
+      <td>22</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>85.86</td>
+    </tr>
+    <tr>
+      <th>2833</th>
+      <td>22</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>91.48</td>
+    </tr>
+    <tr>
+      <th>2834</th>
+      <td>22</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>91.84</td>
+    </tr>
+    <tr>
+      <th>2835</th>
+      <td>22</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>77.10</td>
+    </tr>
+    <tr>
+      <th>2836</th>
+      <td>22</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>67.02</td>
+    </tr>
+    <tr>
+      <th>2837</th>
+      <td>22</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>48.39</td>
+    </tr>
+    <tr>
+      <th>2838</th>
+      <td>22</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.34</td>
+    </tr>
+    <tr>
+      <th>2839</th>
+      <td>22</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.85</td>
     </tr>
   </tbody>
 </table>
@@ -1480,52 +6760,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>922</th>
+      <th>696</th>
       <td>23</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>13.75</td>
+      <td>2.23</td>
     </tr>
     <tr>
-      <th>985</th>
+      <th>697</th>
       <td>23</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>27.75</td>
+      <td>9.96</td>
     </tr>
     <tr>
-      <th>1994</th>
+      <th>698</th>
       <td>23</td>
-      <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>14.18</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>61.99</td>
     </tr>
     <tr>
-      <th>2057</th>
+      <th>699</th>
       <td>23</td>
-      <td>2</td>
-      <td>2020</td>
-      <td>weather_adj</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>59.15</td>
+    </tr>
+    <tr>
+      <th>700</th>
+      <td>23</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>64.79</td>
+    </tr>
+    <tr>
+      <th>701</th>
+      <td>23</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3066</th>
+      <th>702</th>
+      <td>23</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.53</td>
+    </tr>
+    <tr>
+      <th>703</th>
+      <td>23</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>98.12</td>
+    </tr>
+    <tr>
+      <th>704</th>
+      <td>23</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>69.54</td>
+    </tr>
+    <tr>
+      <th>705</th>
+      <td>23</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>55.44</td>
+    </tr>
+    <tr>
+      <th>706</th>
+      <td>23</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.44</td>
+    </tr>
+    <tr>
+      <th>707</th>
+      <td>23</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>15.77</td>
+    </tr>
+    <tr>
+      <th>1768</th>
       <td>23</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>0.76</td>
+    </tr>
+    <tr>
+      <th>1769</th>
+      <td>23</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.70</td>
+    </tr>
+    <tr>
+      <th>1770</th>
+      <td>23</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>60.57</td>
+    </tr>
+    <tr>
+      <th>1771</th>
+      <td>23</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>58.86</td>
+    </tr>
+    <tr>
+      <th>1772</th>
+      <td>23</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>70.35</td>
+    </tr>
+    <tr>
+      <th>1773</th>
+      <td>23</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.77</td>
+    </tr>
+    <tr>
+      <th>1774</th>
+      <td>23</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>94.63</td>
+    </tr>
+    <tr>
+      <th>1775</th>
+      <td>23</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>100.73</td>
+    </tr>
+    <tr>
+      <th>1776</th>
+      <td>23</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>71.29</td>
+    </tr>
+    <tr>
+      <th>1777</th>
+      <td>23</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>55.76</td>
+    </tr>
+    <tr>
+      <th>1778</th>
+      <td>23</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.26</td>
+    </tr>
+    <tr>
+      <th>1779</th>
+      <td>23</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.94</td>
+    </tr>
+    <tr>
+      <th>2840</th>
+      <td>23</td>
+      <td>1</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>30.44</td>
     </tr>
     <tr>
-      <th>3129</th>
+      <th>2841</th>
       <td>23</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>43.55</td>
+    </tr>
+    <tr>
+      <th>2842</th>
+      <td>23</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>63.15</td>
+    </tr>
+    <tr>
+      <th>2843</th>
+      <td>23</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>76.24</td>
+    </tr>
+    <tr>
+      <th>2844</th>
+      <td>23</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>85.22</td>
+    </tr>
+    <tr>
+      <th>2845</th>
+      <td>23</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>91.48</td>
+    </tr>
+    <tr>
+      <th>2846</th>
+      <td>23</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>94.46</td>
+    </tr>
+    <tr>
+      <th>2847</th>
+      <td>23</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>84.93</td>
+    </tr>
+    <tr>
+      <th>2848</th>
+      <td>23</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>66.02</td>
+    </tr>
+    <tr>
+      <th>2849</th>
+      <td>23</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>51.55</td>
+    </tr>
+    <tr>
+      <th>2850</th>
+      <td>23</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.62</td>
+    </tr>
+    <tr>
+      <th>2851</th>
+      <td>23</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.96</td>
     </tr>
   </tbody>
 </table>
@@ -1546,52 +7066,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>923</th>
+      <th>708</th>
       <td>24</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>6.68</td>
+      <td>0.70</td>
     </tr>
     <tr>
-      <th>986</th>
+      <th>709</th>
       <td>24</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>10.84</td>
+      <td>5.25</td>
     </tr>
     <tr>
-      <th>1995</th>
+      <th>710</th>
+      <td>24</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.21</td>
+    </tr>
+    <tr>
+      <th>711</th>
+      <td>24</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.23</td>
+    </tr>
+    <tr>
+      <th>712</th>
+      <td>24</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.85</td>
+    </tr>
+    <tr>
+      <th>713</th>
+      <td>24</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.55</td>
+    </tr>
+    <tr>
+      <th>714</th>
+      <td>24</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.00</td>
+    </tr>
+    <tr>
+      <th>715</th>
+      <td>24</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.73</td>
+    </tr>
+    <tr>
+      <th>716</th>
+      <td>24</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.04</td>
+    </tr>
+    <tr>
+      <th>717</th>
+      <td>24</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>17.37</td>
+    </tr>
+    <tr>
+      <th>718</th>
+      <td>24</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.55</td>
+    </tr>
+    <tr>
+      <th>719</th>
+      <td>24</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.48</td>
+    </tr>
+    <tr>
+      <th>1780</th>
       <td>24</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>6.95</td>
+      <td>0.18</td>
     </tr>
     <tr>
-      <th>2058</th>
+      <th>1781</th>
       <td>24</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>3.98</td>
     </tr>
     <tr>
-      <th>3067</th>
+      <th>1782</th>
+      <td>24</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>20.00</td>
+    </tr>
+    <tr>
+      <th>1783</th>
+      <td>24</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.50</td>
+    </tr>
+    <tr>
+      <th>1784</th>
+      <td>24</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.49</td>
+    </tr>
+    <tr>
+      <th>1785</th>
+      <td>24</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>32.16</td>
+    </tr>
+    <tr>
+      <th>1786</th>
+      <td>24</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.65</td>
+    </tr>
+    <tr>
+      <th>1787</th>
+      <td>24</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.98</td>
+    </tr>
+    <tr>
+      <th>1788</th>
+      <td>24</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.96</td>
+    </tr>
+    <tr>
+      <th>1789</th>
+      <td>24</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.28</td>
+    </tr>
+    <tr>
+      <th>1790</th>
+      <td>24</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.87</td>
+    </tr>
+    <tr>
+      <th>1791</th>
+      <td>24</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>6.60</td>
+    </tr>
+    <tr>
+      <th>2852</th>
       <td>24</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>5.28</td>
     </tr>
     <tr>
-      <th>3130</th>
+      <th>2853</th>
       <td>24</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>8.48</td>
+    </tr>
+    <tr>
+      <th>2854</th>
+      <td>24</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.67</td>
+    </tr>
+    <tr>
+      <th>2855</th>
+      <td>24</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.28</td>
+    </tr>
+    <tr>
+      <th>2856</th>
+      <td>24</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.25</td>
+    </tr>
+    <tr>
+      <th>2857</th>
+      <td>24</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.46</td>
+    </tr>
+    <tr>
+      <th>2858</th>
+      <td>24</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.44</td>
+    </tr>
+    <tr>
+      <th>2859</th>
+      <td>24</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.41</td>
+    </tr>
+    <tr>
+      <th>2860</th>
+      <td>24</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.88</td>
+    </tr>
+    <tr>
+      <th>2861</th>
+      <td>24</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.77</td>
+    </tr>
+    <tr>
+      <th>2862</th>
+      <td>24</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.88</td>
+    </tr>
+    <tr>
+      <th>2863</th>
+      <td>24</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>6.44</td>
     </tr>
   </tbody>
 </table>
@@ -1612,52 +7372,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>924</th>
+      <th>720</th>
       <td>25</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>4.62</td>
+      <td>0.26</td>
     </tr>
     <tr>
-      <th>987</th>
+      <th>721</th>
       <td>25</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.69</td>
+      <td>5.05</td>
     </tr>
     <tr>
-      <th>1996</th>
+      <th>722</th>
+      <td>25</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>17.76</td>
+    </tr>
+    <tr>
+      <th>723</th>
+      <td>25</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.12</td>
+    </tr>
+    <tr>
+      <th>724</th>
+      <td>25</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.26</td>
+    </tr>
+    <tr>
+      <th>725</th>
+      <td>25</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.58</td>
+    </tr>
+    <tr>
+      <th>726</th>
+      <td>25</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.54</td>
+    </tr>
+    <tr>
+      <th>727</th>
+      <td>25</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>34.91</td>
+    </tr>
+    <tr>
+      <th>728</th>
+      <td>25</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.99</td>
+    </tr>
+    <tr>
+      <th>729</th>
+      <td>25</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.80</td>
+    </tr>
+    <tr>
+      <th>730</th>
+      <td>25</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.83</td>
+    </tr>
+    <tr>
+      <th>731</th>
+      <td>25</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>4.92</td>
+    </tr>
+    <tr>
+      <th>1792</th>
       <td>25</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>4.73</td>
+      <td>0.16</td>
     </tr>
     <tr>
-      <th>2059</th>
+      <th>1793</th>
       <td>25</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>3.68</td>
     </tr>
     <tr>
-      <th>3068</th>
+      <th>1794</th>
+      <td>25</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.25</td>
+    </tr>
+    <tr>
+      <th>1795</th>
+      <td>25</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.77</td>
+    </tr>
+    <tr>
+      <th>1796</th>
+      <td>25</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.97</td>
+    </tr>
+    <tr>
+      <th>1797</th>
+      <td>25</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.53</td>
+    </tr>
+    <tr>
+      <th>1798</th>
+      <td>25</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.13</td>
+    </tr>
+    <tr>
+      <th>1799</th>
+      <td>25</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.10</td>
+    </tr>
+    <tr>
+      <th>1800</th>
+      <td>25</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.01</td>
+    </tr>
+    <tr>
+      <th>1801</th>
+      <td>25</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>19.63</td>
+    </tr>
+    <tr>
+      <th>1802</th>
+      <td>25</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>6.01</td>
+    </tr>
+    <tr>
+      <th>1803</th>
+      <td>25</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>5.14</td>
+    </tr>
+    <tr>
+      <th>2864</th>
       <td>25</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>6.96</td>
     </tr>
     <tr>
-      <th>3131</th>
+      <th>2865</th>
       <td>25</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>11.27</td>
+    </tr>
+    <tr>
+      <th>2866</th>
+      <td>25</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>22.28</td>
+    </tr>
+    <tr>
+      <th>2867</th>
+      <td>25</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.98</td>
+    </tr>
+    <tr>
+      <th>2868</th>
+      <td>25</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.91</td>
+    </tr>
+    <tr>
+      <th>2869</th>
+      <td>25</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.30</td>
+    </tr>
+    <tr>
+      <th>2870</th>
+      <td>25</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>35.33</td>
+    </tr>
+    <tr>
+      <th>2871</th>
+      <td>25</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.89</td>
+    </tr>
+    <tr>
+      <th>2872</th>
+      <td>25</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.46</td>
+    </tr>
+    <tr>
+      <th>2873</th>
+      <td>25</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>17.08</td>
+    </tr>
+    <tr>
+      <th>2874</th>
+      <td>25</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.97</td>
+    </tr>
+    <tr>
+      <th>2875</th>
+      <td>25</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>6.31</td>
     </tr>
   </tbody>
 </table>
@@ -1678,52 +7678,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>925</th>
+      <th>732</th>
       <td>26</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>4.11</td>
+      <td>0.0000</td>
     </tr>
     <tr>
-      <th>994</th>
+      <th>733</th>
       <td>26</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>7.93</td>
+      <td>0.0000</td>
     </tr>
     <tr>
-      <th>1997</th>
+      <th>734</th>
+      <td>26</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>0.0000</td>
+    </tr>
+    <tr>
+      <th>735</th>
+      <td>26</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.0697</td>
+    </tr>
+    <tr>
+      <th>736</th>
+      <td>26</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>0.0000</td>
+    </tr>
+    <tr>
+      <th>737</th>
+      <td>26</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.1120</td>
+    </tr>
+    <tr>
+      <th>738</th>
+      <td>26</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.3340</td>
+    </tr>
+    <tr>
+      <th>739</th>
+      <td>26</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.6480</td>
+    </tr>
+    <tr>
+      <th>740</th>
+      <td>26</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>0.8910</td>
+    </tr>
+    <tr>
+      <th>741</th>
+      <td>26</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.1010</td>
+    </tr>
+    <tr>
+      <th>742</th>
+      <td>26</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.3350</td>
+    </tr>
+    <tr>
+      <th>743</th>
+      <td>26</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>2.5580</td>
+    </tr>
+    <tr>
+      <th>1804</th>
       <td>26</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>4.28</td>
+      <td>0.0000</td>
     </tr>
     <tr>
-      <th>2066</th>
+      <th>1805</th>
       <td>26</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
+      <td>0.0000</td>
+    </tr>
+    <tr>
+      <th>1806</th>
+      <td>26</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>0.0000</td>
+    </tr>
+    <tr>
+      <th>1807</th>
+      <td>26</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.4800</td>
+    </tr>
+    <tr>
+      <th>1808</th>
+      <td>26</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.6190</td>
+    </tr>
+    <tr>
+      <th>1809</th>
+      <td>26</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.9200</td>
+    </tr>
+    <tr>
+      <th>1810</th>
+      <td>26</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>17.8100</td>
+    </tr>
+    <tr>
+      <th>1811</th>
+      <td>26</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>16.0800</td>
+    </tr>
+    <tr>
+      <th>1812</th>
+      <td>26</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.1900</td>
+    </tr>
+    <tr>
+      <th>1813</th>
+      <td>26</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.9000</td>
+    </tr>
+    <tr>
+      <th>1814</th>
+      <td>26</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.5000</td>
+    </tr>
+    <tr>
+      <th>1815</th>
+      <td>26</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.1000</td>
+    </tr>
+    <tr>
+      <th>2876</th>
+      <td>26</td>
+      <td>1</td>
+      <td>2019</td>
+      <td>pv_syst</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3069</th>
-      <td>26</td>
-      <td>1</td>
-      <td>2020</td>
-      <td>pv_syst</td>
-      <td>4.66</td>
-    </tr>
-    <tr>
-      <th>3138</th>
+      <th>2877</th>
       <td>26</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>7.29</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2878</th>
+      <td>26</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2879</th>
+      <td>26</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2880</th>
+      <td>26</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2881</th>
+      <td>26</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2882</th>
+      <td>26</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2883</th>
+      <td>26</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2884</th>
+      <td>26</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2885</th>
+      <td>26</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2886</th>
+      <td>26</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2887</th>
+      <td>26</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>NaN</td>
     </tr>
   </tbody>
 </table>
@@ -1744,52 +7984,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>926</th>
+      <th>744</th>
       <td>27</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>3.74</td>
+      <td>4.59</td>
     </tr>
     <tr>
-      <th>995</th>
+      <th>745</th>
       <td>27</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>7.70</td>
+      <td>4.82</td>
     </tr>
     <tr>
-      <th>1998</th>
+      <th>746</th>
+      <td>27</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.15</td>
+    </tr>
+    <tr>
+      <th>747</th>
+      <td>27</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.54</td>
+    </tr>
+    <tr>
+      <th>748</th>
+      <td>27</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.93</td>
+    </tr>
+    <tr>
+      <th>749</th>
+      <td>27</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.23</td>
+    </tr>
+    <tr>
+      <th>750</th>
+      <td>27</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.27</td>
+    </tr>
+    <tr>
+      <th>751</th>
+      <td>27</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.83</td>
+    </tr>
+    <tr>
+      <th>752</th>
+      <td>27</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.28</td>
+    </tr>
+    <tr>
+      <th>753</th>
+      <td>27</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>9.48</td>
+    </tr>
+    <tr>
+      <th>754</th>
+      <td>27</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.06</td>
+    </tr>
+    <tr>
+      <th>755</th>
+      <td>27</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>2.44</td>
+    </tr>
+    <tr>
+      <th>1816</th>
       <td>27</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>3.69</td>
-    </tr>
-    <tr>
-      <th>2067</th>
-      <td>27</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3070</th>
+      <th>1817</th>
+      <td>27</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>1818</th>
+      <td>27</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.50</td>
+    </tr>
+    <tr>
+      <th>1819</th>
+      <td>27</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.10</td>
+    </tr>
+    <tr>
+      <th>1820</th>
+      <td>27</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.49</td>
+    </tr>
+    <tr>
+      <th>1821</th>
+      <td>27</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.81</td>
+    </tr>
+    <tr>
+      <th>1822</th>
+      <td>27</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>14.32</td>
+    </tr>
+    <tr>
+      <th>1823</th>
+      <td>27</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>14.87</td>
+    </tr>
+    <tr>
+      <th>1824</th>
+      <td>27</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>8.32</td>
+    </tr>
+    <tr>
+      <th>1825</th>
+      <td>27</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>6.81</td>
+    </tr>
+    <tr>
+      <th>1826</th>
+      <td>27</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.20</td>
+    </tr>
+    <tr>
+      <th>1827</th>
+      <td>27</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.02</td>
+    </tr>
+    <tr>
+      <th>2888</th>
       <td>27</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>4.02</td>
     </tr>
     <tr>
-      <th>3139</th>
+      <th>2889</th>
       <td>27</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>6.29</td>
+    </tr>
+    <tr>
+      <th>2890</th>
+      <td>27</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>7.93</td>
+    </tr>
+    <tr>
+      <th>2891</th>
+      <td>27</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.76</td>
+    </tr>
+    <tr>
+      <th>2892</th>
+      <td>27</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.98</td>
+    </tr>
+    <tr>
+      <th>2893</th>
+      <td>27</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.78</td>
+    </tr>
+    <tr>
+      <th>2894</th>
+      <td>27</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.39</td>
+    </tr>
+    <tr>
+      <th>2895</th>
+      <td>27</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.90</td>
+    </tr>
+    <tr>
+      <th>2896</th>
+      <td>27</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.57</td>
+    </tr>
+    <tr>
+      <th>2897</th>
+      <td>27</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>7.92</td>
+    </tr>
+    <tr>
+      <th>2898</th>
+      <td>27</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>4.48</td>
+    </tr>
+    <tr>
+      <th>2899</th>
+      <td>27</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>3.16</td>
     </tr>
   </tbody>
 </table>
@@ -1810,52 +8290,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>927</th>
+      <th>756</th>
       <td>28</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>4.86</td>
+      <td>6.54</td>
     </tr>
     <tr>
-      <th>996</th>
+      <th>757</th>
       <td>28</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>11.21</td>
+      <td>9.96</td>
     </tr>
     <tr>
-      <th>1999</th>
+      <th>758</th>
+      <td>28</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.24</td>
+    </tr>
+    <tr>
+      <th>759</th>
+      <td>28</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.55</td>
+    </tr>
+    <tr>
+      <th>760</th>
+      <td>28</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>28.42</td>
+    </tr>
+    <tr>
+      <th>761</th>
+      <td>28</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.05</td>
+    </tr>
+    <tr>
+      <th>762</th>
+      <td>28</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.47</td>
+    </tr>
+    <tr>
+      <th>763</th>
+      <td>28</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.15</td>
+    </tr>
+    <tr>
+      <th>764</th>
+      <td>28</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.51</td>
+    </tr>
+    <tr>
+      <th>765</th>
+      <td>28</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.10</td>
+    </tr>
+    <tr>
+      <th>766</th>
+      <td>28</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.60</td>
+    </tr>
+    <tr>
+      <th>767</th>
+      <td>28</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>2.79</td>
+    </tr>
+    <tr>
+      <th>1828</th>
       <td>28</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>5.00</td>
-    </tr>
-    <tr>
-      <th>2068</th>
-      <td>28</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3071</th>
+      <th>1829</th>
+      <td>28</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>1830</th>
+      <td>28</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>17.66</td>
+    </tr>
+    <tr>
+      <th>1831</th>
+      <td>28</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.08</td>
+    </tr>
+    <tr>
+      <th>1832</th>
+      <td>28</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.52</td>
+    </tr>
+    <tr>
+      <th>1833</th>
+      <td>28</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.24</td>
+    </tr>
+    <tr>
+      <th>1834</th>
+      <td>28</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.08</td>
+    </tr>
+    <tr>
+      <th>1835</th>
+      <td>28</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.52</td>
+    </tr>
+    <tr>
+      <th>1836</th>
+      <td>28</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.35</td>
+    </tr>
+    <tr>
+      <th>1837</th>
+      <td>28</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>20.03</td>
+    </tr>
+    <tr>
+      <th>1838</th>
+      <td>28</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.20</td>
+    </tr>
+    <tr>
+      <th>1839</th>
+      <td>28</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.93</td>
+    </tr>
+    <tr>
+      <th>2900</th>
       <td>28</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>4.13</td>
     </tr>
     <tr>
-      <th>3140</th>
+      <th>2901</th>
       <td>28</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>9.93</td>
+    </tr>
+    <tr>
+      <th>2902</th>
+      <td>28</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.13</td>
+    </tr>
+    <tr>
+      <th>2903</th>
+      <td>28</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>35.04</td>
+    </tr>
+    <tr>
+      <th>2904</th>
+      <td>28</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.79</td>
+    </tr>
+    <tr>
+      <th>2905</th>
+      <td>28</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.35</td>
+    </tr>
+    <tr>
+      <th>2906</th>
+      <td>28</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.62</td>
+    </tr>
+    <tr>
+      <th>2907</th>
+      <td>28</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>38.81</td>
+    </tr>
+    <tr>
+      <th>2908</th>
+      <td>28</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.81</td>
+    </tr>
+    <tr>
+      <th>2909</th>
+      <td>28</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.62</td>
+    </tr>
+    <tr>
+      <th>2910</th>
+      <td>28</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.64</td>
+    </tr>
+    <tr>
+      <th>2911</th>
+      <td>28</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>5.27</td>
     </tr>
   </tbody>
 </table>
@@ -1876,52 +8596,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>928</th>
+      <th>768</th>
       <td>29</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.44</td>
+      <td>6.730</td>
     </tr>
     <tr>
-      <th>997</th>
+      <th>769</th>
       <td>29</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.59</td>
+      <td>8.150</td>
     </tr>
     <tr>
-      <th>2000</th>
+      <th>770</th>
+      <td>29</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.030</td>
+    </tr>
+    <tr>
+      <th>771</th>
+      <td>29</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>26.730</td>
+    </tr>
+    <tr>
+      <th>772</th>
+      <td>29</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.360</td>
+    </tr>
+    <tr>
+      <th>773</th>
+      <td>29</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>12.440</td>
+    </tr>
+    <tr>
+      <th>774</th>
+      <td>29</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>15.370</td>
+    </tr>
+    <tr>
+      <th>775</th>
+      <td>29</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.080</td>
+    </tr>
+    <tr>
+      <th>776</th>
+      <td>29</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.250</td>
+    </tr>
+    <tr>
+      <th>777</th>
+      <td>29</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.600</td>
+    </tr>
+    <tr>
+      <th>778</th>
+      <td>29</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.640</td>
+    </tr>
+    <tr>
+      <th>779</th>
+      <td>29</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.000</td>
+    </tr>
+    <tr>
+      <th>1840</th>
       <td>29</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>1.43</td>
-    </tr>
-    <tr>
-      <th>2069</th>
-      <td>29</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3072</th>
-      <td>29</td>
-      <td>1</td>
-      <td>2020</td>
-      <td>pv_syst</td>
-      <td>13.62</td>
-    </tr>
-    <tr>
-      <th>3141</th>
+      <th>1841</th>
       <td>29</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>1842</th>
+      <td>29</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>16.820</td>
+    </tr>
+    <tr>
+      <th>1843</th>
+      <td>29</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.950</td>
+    </tr>
+    <tr>
+      <th>1844</th>
+      <td>29</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.690</td>
+    </tr>
+    <tr>
+      <th>1845</th>
+      <td>29</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>47.810</td>
+    </tr>
+    <tr>
+      <th>1846</th>
+      <td>29</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>56.850</td>
+    </tr>
+    <tr>
+      <th>1847</th>
+      <td>29</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>53.790</td>
+    </tr>
+    <tr>
+      <th>1848</th>
+      <td>29</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>34.780</td>
+    </tr>
+    <tr>
+      <th>1849</th>
+      <td>29</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.790</td>
+    </tr>
+    <tr>
+      <th>1850</th>
+      <td>29</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>13.180</td>
+    </tr>
+    <tr>
+      <th>1851</th>
+      <td>29</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>8.715</td>
+    </tr>
+    <tr>
+      <th>2912</th>
+      <td>29</td>
+      <td>1</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>18.47</td>
+      <td>13.620</td>
+    </tr>
+    <tr>
+      <th>2913</th>
+      <td>29</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>18.470</td>
+    </tr>
+    <tr>
+      <th>2914</th>
+      <td>29</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.080</td>
+    </tr>
+    <tr>
+      <th>2915</th>
+      <td>29</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.520</td>
+    </tr>
+    <tr>
+      <th>2916</th>
+      <td>29</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>50.730</td>
+    </tr>
+    <tr>
+      <th>2917</th>
+      <td>29</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>51.420</td>
+    </tr>
+    <tr>
+      <th>2918</th>
+      <td>29</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>54.180</td>
+    </tr>
+    <tr>
+      <th>2919</th>
+      <td>29</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>46.630</td>
+    </tr>
+    <tr>
+      <th>2920</th>
+      <td>29</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.840</td>
+    </tr>
+    <tr>
+      <th>2921</th>
+      <td>29</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.250</td>
+    </tr>
+    <tr>
+      <th>2922</th>
+      <td>29</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.620</td>
+    </tr>
+    <tr>
+      <th>2923</th>
+      <td>29</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.340</td>
     </tr>
   </tbody>
 </table>
@@ -1942,52 +8902,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>929</th>
+      <th>780</th>
       <td>30</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>4.50</td>
+      <td>9.26</td>
     </tr>
     <tr>
-      <th>998</th>
+      <th>781</th>
       <td>30</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>9.36</td>
+      <td>16.06</td>
     </tr>
     <tr>
-      <th>2001</th>
+      <th>782</th>
+      <td>30</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.86</td>
+    </tr>
+    <tr>
+      <th>783</th>
+      <td>30</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.32</td>
+    </tr>
+    <tr>
+      <th>784</th>
+      <td>30</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.12</td>
+    </tr>
+    <tr>
+      <th>785</th>
+      <td>30</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.02</td>
+    </tr>
+    <tr>
+      <th>786</th>
+      <td>30</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>52.37</td>
+    </tr>
+    <tr>
+      <th>787</th>
+      <td>30</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.26</td>
+    </tr>
+    <tr>
+      <th>788</th>
+      <td>30</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.64</td>
+    </tr>
+    <tr>
+      <th>789</th>
+      <td>30</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.43</td>
+    </tr>
+    <tr>
+      <th>790</th>
+      <td>30</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.68</td>
+    </tr>
+    <tr>
+      <th>791</th>
+      <td>30</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.17</td>
+    </tr>
+    <tr>
+      <th>1852</th>
       <td>30</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>4.69</td>
-    </tr>
-    <tr>
-      <th>2070</th>
-      <td>30</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3073</th>
+      <th>1853</th>
+      <td>30</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>1854</th>
+      <td>30</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.97</td>
+    </tr>
+    <tr>
+      <th>1855</th>
+      <td>30</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.83</td>
+    </tr>
+    <tr>
+      <th>1856</th>
+      <td>30</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.33</td>
+    </tr>
+    <tr>
+      <th>1857</th>
+      <td>30</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.06</td>
+    </tr>
+    <tr>
+      <th>1858</th>
+      <td>30</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>50.44</td>
+    </tr>
+    <tr>
+      <th>1859</th>
+      <td>30</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>42.25</td>
+    </tr>
+    <tr>
+      <th>1860</th>
+      <td>30</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.92</td>
+    </tr>
+    <tr>
+      <th>1861</th>
+      <td>30</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.34</td>
+    </tr>
+    <tr>
+      <th>1862</th>
+      <td>30</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.37</td>
+    </tr>
+    <tr>
+      <th>1863</th>
+      <td>30</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>8.83</td>
+    </tr>
+    <tr>
+      <th>2924</th>
       <td>30</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>12.99</td>
     </tr>
     <tr>
-      <th>3142</th>
+      <th>2925</th>
       <td>30</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>17.95</td>
+    </tr>
+    <tr>
+      <th>2926</th>
+      <td>30</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.33</td>
+    </tr>
+    <tr>
+      <th>2927</th>
+      <td>30</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.55</td>
+    </tr>
+    <tr>
+      <th>2928</th>
+      <td>30</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.43</td>
+    </tr>
+    <tr>
+      <th>2929</th>
+      <td>30</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.24</td>
+    </tr>
+    <tr>
+      <th>2930</th>
+      <td>30</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>48.56</td>
+    </tr>
+    <tr>
+      <th>2931</th>
+      <td>30</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>42.41</td>
+    </tr>
+    <tr>
+      <th>2932</th>
+      <td>30</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>35.50</td>
+    </tr>
+    <tr>
+      <th>2933</th>
+      <td>30</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.63</td>
+    </tr>
+    <tr>
+      <th>2934</th>
+      <td>30</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.55</td>
+    </tr>
+    <tr>
+      <th>2935</th>
+      <td>30</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.53</td>
     </tr>
   </tbody>
 </table>
@@ -2008,52 +9208,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>930</th>
+      <th>792</th>
       <td>31</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.025</td>
+      <td>1.610</td>
     </tr>
     <tr>
-      <th>999</th>
+      <th>793</th>
       <td>31</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>1.110</td>
+      <td>0.220</td>
     </tr>
     <tr>
-      <th>2002</th>
+      <th>794</th>
+      <td>31</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.600</td>
+    </tr>
+    <tr>
+      <th>795</th>
+      <td>31</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.970</td>
+    </tr>
+    <tr>
+      <th>796</th>
+      <td>31</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.890</td>
+    </tr>
+    <tr>
+      <th>797</th>
+      <td>31</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.010</td>
+    </tr>
+    <tr>
+      <th>798</th>
+      <td>31</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>15.610</td>
+    </tr>
+    <tr>
+      <th>799</th>
+      <td>31</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.940</td>
+    </tr>
+    <tr>
+      <th>800</th>
+      <td>31</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.550</td>
+    </tr>
+    <tr>
+      <th>801</th>
+      <td>31</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>12.370</td>
+    </tr>
+    <tr>
+      <th>802</th>
+      <td>31</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.510</td>
+    </tr>
+    <tr>
+      <th>803</th>
+      <td>31</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>4.270</td>
+    </tr>
+    <tr>
+      <th>1864</th>
       <td>31</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>1.010</td>
-    </tr>
-    <tr>
-      <th>2071</th>
-      <td>31</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3074</th>
+      <th>1865</th>
+      <td>31</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>1866</th>
+      <td>31</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.130</td>
+    </tr>
+    <tr>
+      <th>1867</th>
+      <td>31</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>21.600</td>
+    </tr>
+    <tr>
+      <th>1868</th>
+      <td>31</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.000</td>
+    </tr>
+    <tr>
+      <th>1869</th>
+      <td>31</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.150</td>
+    </tr>
+    <tr>
+      <th>1870</th>
+      <td>31</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.270</td>
+    </tr>
+    <tr>
+      <th>1871</th>
+      <td>31</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.420</td>
+    </tr>
+    <tr>
+      <th>1872</th>
+      <td>31</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.690</td>
+    </tr>
+    <tr>
+      <th>1873</th>
+      <td>31</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>14.010</td>
+    </tr>
+    <tr>
+      <th>1874</th>
+      <td>31</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>5.470</td>
+    </tr>
+    <tr>
+      <th>1875</th>
+      <td>31</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>4.914</td>
+    </tr>
+    <tr>
+      <th>2936</th>
       <td>31</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>8.130</td>
     </tr>
     <tr>
-      <th>3143</th>
+      <th>2937</th>
       <td>31</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>10.030</td>
+    </tr>
+    <tr>
+      <th>2938</th>
+      <td>31</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>17.570</td>
+    </tr>
+    <tr>
+      <th>2939</th>
+      <td>31</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.150</td>
+    </tr>
+    <tr>
+      <th>2940</th>
+      <td>31</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.420</td>
+    </tr>
+    <tr>
+      <th>2941</th>
+      <td>31</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.130</td>
+    </tr>
+    <tr>
+      <th>2942</th>
+      <td>31</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.730</td>
+    </tr>
+    <tr>
+      <th>2943</th>
+      <td>31</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.090</td>
+    </tr>
+    <tr>
+      <th>2944</th>
+      <td>31</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>20.480</td>
+    </tr>
+    <tr>
+      <th>2945</th>
+      <td>31</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.930</td>
+    </tr>
+    <tr>
+      <th>2946</th>
+      <td>31</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.810</td>
+    </tr>
+    <tr>
+      <th>2947</th>
+      <td>31</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>5.620</td>
     </tr>
   </tbody>
 </table>
@@ -2074,52 +9514,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>931</th>
+      <th>804</th>
       <td>32</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.841</td>
+      <td>3.17</td>
     </tr>
     <tr>
-      <th>960</th>
+      <th>805</th>
       <td>32</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>2.350</td>
+      <td>4.03</td>
     </tr>
     <tr>
-      <th>2003</th>
+      <th>806</th>
+      <td>32</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.41</td>
+    </tr>
+    <tr>
+      <th>807</th>
+      <td>32</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.52</td>
+    </tr>
+    <tr>
+      <th>808</th>
+      <td>32</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.58</td>
+    </tr>
+    <tr>
+      <th>809</th>
+      <td>32</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.81</td>
+    </tr>
+    <tr>
+      <th>810</th>
+      <td>32</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>26.13</td>
+    </tr>
+    <tr>
+      <th>811</th>
+      <td>32</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.15</td>
+    </tr>
+    <tr>
+      <th>812</th>
+      <td>32</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>15.21</td>
+    </tr>
+    <tr>
+      <th>813</th>
+      <td>32</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.77</td>
+    </tr>
+    <tr>
+      <th>814</th>
+      <td>32</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.65</td>
+    </tr>
+    <tr>
+      <th>815</th>
+      <td>32</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.71</td>
+    </tr>
+    <tr>
+      <th>1876</th>
       <td>32</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>0.847</td>
+      <td>2.17</td>
     </tr>
     <tr>
-      <th>2032</th>
+      <th>1877</th>
       <td>32</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>5.42</td>
     </tr>
     <tr>
-      <th>3075</th>
+      <th>1878</th>
+      <td>32</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.19</td>
+    </tr>
+    <tr>
+      <th>1879</th>
+      <td>32</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>16.79</td>
+    </tr>
+    <tr>
+      <th>1880</th>
+      <td>32</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>18.05</td>
+    </tr>
+    <tr>
+      <th>1881</th>
+      <td>32</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.07</td>
+    </tr>
+    <tr>
+      <th>1882</th>
+      <td>32</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>24.56</td>
+    </tr>
+    <tr>
+      <th>1883</th>
+      <td>32</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.53</td>
+    </tr>
+    <tr>
+      <th>1884</th>
+      <td>32</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>14.59</td>
+    </tr>
+    <tr>
+      <th>1885</th>
+      <td>32</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>10.60</td>
+    </tr>
+    <tr>
+      <th>1886</th>
+      <td>32</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.81</td>
+    </tr>
+    <tr>
+      <th>1887</th>
+      <td>32</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.36</td>
+    </tr>
+    <tr>
+      <th>2948</th>
       <td>32</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>2.803</td>
+      <td>2.80</td>
     </tr>
     <tr>
-      <th>3104</th>
+      <th>2949</th>
       <td>32</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>11.760</td>
+      <td>6.64</td>
+    </tr>
+    <tr>
+      <th>2950</th>
+      <td>32</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>14.54</td>
+    </tr>
+    <tr>
+      <th>2951</th>
+      <td>32</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.52</td>
+    </tr>
+    <tr>
+      <th>2952</th>
+      <td>32</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>21.96</td>
+    </tr>
+    <tr>
+      <th>2953</th>
+      <td>32</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.57</td>
+    </tr>
+    <tr>
+      <th>2954</th>
+      <td>32</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.54</td>
+    </tr>
+    <tr>
+      <th>2955</th>
+      <td>32</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>21.05</td>
+    </tr>
+    <tr>
+      <th>2956</th>
+      <td>32</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.73</td>
+    </tr>
+    <tr>
+      <th>2957</th>
+      <td>32</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.65</td>
+    </tr>
+    <tr>
+      <th>2958</th>
+      <td>32</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>6.35</td>
+    </tr>
+    <tr>
+      <th>2959</th>
+      <td>32</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>3.73</td>
     </tr>
   </tbody>
 </table>
@@ -2140,52 +9820,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>932</th>
+      <th>816</th>
       <td>33</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>3.046</td>
+      <td>14.70</td>
     </tr>
     <tr>
-      <th>961</th>
+      <th>817</th>
       <td>33</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.970</td>
+      <td>17.42</td>
     </tr>
     <tr>
-      <th>2004</th>
+      <th>818</th>
+      <td>33</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>41.01</td>
+    </tr>
+    <tr>
+      <th>819</th>
+      <td>33</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>39.34</td>
+    </tr>
+    <tr>
+      <th>820</th>
+      <td>33</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>55.41</td>
+    </tr>
+    <tr>
+      <th>821</th>
+      <td>33</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>74.59</td>
+    </tr>
+    <tr>
+      <th>822</th>
+      <td>33</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>82.38</td>
+    </tr>
+    <tr>
+      <th>823</th>
+      <td>33</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>75.38</td>
+    </tr>
+    <tr>
+      <th>824</th>
+      <td>33</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.18</td>
+    </tr>
+    <tr>
+      <th>825</th>
+      <td>33</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.77</td>
+    </tr>
+    <tr>
+      <th>826</th>
+      <td>33</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.88</td>
+    </tr>
+    <tr>
+      <th>827</th>
+      <td>33</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.64</td>
+    </tr>
+    <tr>
+      <th>1888</th>
       <td>33</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>2.920</td>
+      <td>6.74</td>
     </tr>
     <tr>
-      <th>2033</th>
+      <th>1889</th>
       <td>33</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>16.85</td>
     </tr>
     <tr>
-      <th>3076</th>
+      <th>1890</th>
+      <td>33</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.71</td>
+    </tr>
+    <tr>
+      <th>1891</th>
+      <td>33</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>52.27</td>
+    </tr>
+    <tr>
+      <th>1892</th>
+      <td>33</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>56.35</td>
+    </tr>
+    <tr>
+      <th>1893</th>
+      <td>33</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>69.18</td>
+    </tr>
+    <tr>
+      <th>1894</th>
+      <td>33</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>77.12</td>
+    </tr>
+    <tr>
+      <th>1895</th>
+      <td>33</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>73.69</td>
+    </tr>
+    <tr>
+      <th>1896</th>
+      <td>33</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>45.49</td>
+    </tr>
+    <tr>
+      <th>1897</th>
+      <td>33</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>32.85</td>
+    </tr>
+    <tr>
+      <th>1898</th>
+      <td>33</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.78</td>
+    </tr>
+    <tr>
+      <th>1899</th>
+      <td>33</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.29</td>
+    </tr>
+    <tr>
+      <th>2960</th>
       <td>33</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>8.742</td>
+      <td>8.74</td>
     </tr>
     <tr>
-      <th>3105</th>
+      <th>2961</th>
       <td>33</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>38.140</td>
+      <td>20.51</td>
+    </tr>
+    <tr>
+      <th>2962</th>
+      <td>33</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>44.96</td>
+    </tr>
+    <tr>
+      <th>2963</th>
+      <td>33</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>60.63</td>
+    </tr>
+    <tr>
+      <th>2964</th>
+      <td>33</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>68.56</td>
+    </tr>
+    <tr>
+      <th>2965</th>
+      <td>33</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>73.88</td>
+    </tr>
+    <tr>
+      <th>2966</th>
+      <td>33</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>77.08</td>
+    </tr>
+    <tr>
+      <th>2967</th>
+      <td>33</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>66.07</td>
+    </tr>
+    <tr>
+      <th>2968</th>
+      <td>33</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>49.21</td>
+    </tr>
+    <tr>
+      <th>2969</th>
+      <td>33</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>36.26</td>
+    </tr>
+    <tr>
+      <th>2970</th>
+      <td>33</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.71</td>
+    </tr>
+    <tr>
+      <th>2971</th>
+      <td>33</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.61</td>
     </tr>
   </tbody>
 </table>
@@ -2206,52 +10126,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>933</th>
+      <th>828</th>
       <td>34</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>0.7006</td>
+      <td>2.55</td>
     </tr>
     <tr>
-      <th>962</th>
+      <th>829</th>
       <td>34</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>2.7400</td>
+      <td>3.67</td>
     </tr>
     <tr>
-      <th>2005</th>
+      <th>830</th>
+      <td>34</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.99</td>
+    </tr>
+    <tr>
+      <th>831</th>
+      <td>34</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.59</td>
+    </tr>
+    <tr>
+      <th>832</th>
+      <td>34</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.31</td>
+    </tr>
+    <tr>
+      <th>833</th>
+      <td>34</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>17.92</td>
+    </tr>
+    <tr>
+      <th>834</th>
+      <td>34</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>19.68</td>
+    </tr>
+    <tr>
+      <th>835</th>
+      <td>34</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.22</td>
+    </tr>
+    <tr>
+      <th>836</th>
+      <td>34</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.40</td>
+    </tr>
+    <tr>
+      <th>837</th>
+      <td>34</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>9.23</td>
+    </tr>
+    <tr>
+      <th>838</th>
+      <td>34</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>2.54</td>
+    </tr>
+    <tr>
+      <th>839</th>
+      <td>34</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>1.01</td>
+    </tr>
+    <tr>
+      <th>1900</th>
       <td>34</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>0.6840</td>
+      <td>1.52</td>
     </tr>
     <tr>
-      <th>2034</th>
+      <th>1901</th>
       <td>34</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>3.17</td>
     </tr>
     <tr>
-      <th>3077</th>
+      <th>1902</th>
+      <td>34</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>7.26</td>
+    </tr>
+    <tr>
+      <th>1903</th>
+      <td>34</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.64</td>
+    </tr>
+    <tr>
+      <th>1904</th>
+      <td>34</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>12.92</td>
+    </tr>
+    <tr>
+      <th>1905</th>
+      <td>34</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.18</td>
+    </tr>
+    <tr>
+      <th>1906</th>
+      <td>34</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>16.76</td>
+    </tr>
+    <tr>
+      <th>1907</th>
+      <td>34</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.70</td>
+    </tr>
+    <tr>
+      <th>1908</th>
+      <td>34</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.57</td>
+    </tr>
+    <tr>
+      <th>1909</th>
+      <td>34</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.43</td>
+    </tr>
+    <tr>
+      <th>1910</th>
+      <td>34</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.60</td>
+    </tr>
+    <tr>
+      <th>1911</th>
+      <td>34</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>1.38</td>
+    </tr>
+    <tr>
+      <th>2972</th>
       <td>34</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>2.2500</td>
+      <td>2.25</td>
     </tr>
     <tr>
-      <th>3106</th>
+      <th>2973</th>
       <td>34</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>7.7100</td>
+      <td>4.04</td>
+    </tr>
+    <tr>
+      <th>2974</th>
+      <td>34</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.00</td>
+    </tr>
+    <tr>
+      <th>2975</th>
+      <td>34</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.58</td>
+    </tr>
+    <tr>
+      <th>2976</th>
+      <td>34</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.72</td>
+    </tr>
+    <tr>
+      <th>2977</th>
+      <td>34</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.24</td>
+    </tr>
+    <tr>
+      <th>2978</th>
+      <td>34</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.83</td>
+    </tr>
+    <tr>
+      <th>2979</th>
+      <td>34</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>14.77</td>
+    </tr>
+    <tr>
+      <th>2980</th>
+      <td>34</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>11.22</td>
+    </tr>
+    <tr>
+      <th>2981</th>
+      <td>34</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.23</td>
+    </tr>
+    <tr>
+      <th>2982</th>
+      <td>34</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>4.33</td>
+    </tr>
+    <tr>
+      <th>2983</th>
+      <td>34</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>3.19</td>
     </tr>
   </tbody>
 </table>
@@ -2272,52 +10432,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>934</th>
+      <th>840</th>
       <td>35</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>4.005</td>
+      <td>3.86</td>
     </tr>
     <tr>
-      <th>955</th>
+      <th>841</th>
       <td>35</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.060</td>
+      <td>8.47</td>
     </tr>
     <tr>
-      <th>2006</th>
+      <th>842</th>
+      <td>35</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.70</td>
+    </tr>
+    <tr>
+      <th>843</th>
+      <td>35</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.37</td>
+    </tr>
+    <tr>
+      <th>844</th>
+      <td>35</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>31.28</td>
+    </tr>
+    <tr>
+      <th>845</th>
+      <td>35</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>38.87</td>
+    </tr>
+    <tr>
+      <th>846</th>
+      <td>35</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>43.47</td>
+    </tr>
+    <tr>
+      <th>847</th>
+      <td>35</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.66</td>
+    </tr>
+    <tr>
+      <th>848</th>
+      <td>35</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.53</td>
+    </tr>
+    <tr>
+      <th>849</th>
+      <td>35</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>19.58</td>
+    </tr>
+    <tr>
+      <th>850</th>
+      <td>35</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.97</td>
+    </tr>
+    <tr>
+      <th>851</th>
+      <td>35</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>4.04</td>
+    </tr>
+    <tr>
+      <th>1912</th>
       <td>35</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>4.202</td>
+      <td>6.56</td>
     </tr>
     <tr>
-      <th>2027</th>
+      <th>1913</th>
       <td>35</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>8.37</td>
     </tr>
     <tr>
-      <th>3078</th>
+      <th>1914</th>
+      <td>35</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>19.34</td>
+    </tr>
+    <tr>
+      <th>1915</th>
+      <td>35</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>23.56</td>
+    </tr>
+    <tr>
+      <th>1916</th>
+      <td>35</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>30.25</td>
+    </tr>
+    <tr>
+      <th>1917</th>
+      <td>35</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.76</td>
+    </tr>
+    <tr>
+      <th>1918</th>
+      <td>35</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>41.23</td>
+    </tr>
+    <tr>
+      <th>1919</th>
+      <td>35</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>39.54</td>
+    </tr>
+    <tr>
+      <th>1920</th>
+      <td>35</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.74</td>
+    </tr>
+    <tr>
+      <th>1921</th>
+      <td>35</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.86</td>
+    </tr>
+    <tr>
+      <th>1922</th>
+      <td>35</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>9.97</td>
+    </tr>
+    <tr>
+      <th>1923</th>
+      <td>35</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.99</td>
+    </tr>
+    <tr>
+      <th>2984</th>
       <td>35</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>11.303</td>
+      <td>11.30</td>
     </tr>
     <tr>
-      <th>3099</th>
+      <th>2985</th>
       <td>35</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>19.600</td>
+      <td>15.38</td>
+    </tr>
+    <tr>
+      <th>2986</th>
+      <td>35</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.34</td>
+    </tr>
+    <tr>
+      <th>2987</th>
+      <td>35</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.01</td>
+    </tr>
+    <tr>
+      <th>2988</th>
+      <td>35</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>36.41</td>
+    </tr>
+    <tr>
+      <th>2989</th>
+      <td>35</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.48</td>
+    </tr>
+    <tr>
+      <th>2990</th>
+      <td>35</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.54</td>
+    </tr>
+    <tr>
+      <th>2991</th>
+      <td>35</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>35.05</td>
+    </tr>
+    <tr>
+      <th>2992</th>
+      <td>35</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.20</td>
+    </tr>
+    <tr>
+      <th>2993</th>
+      <td>35</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.21</td>
+    </tr>
+    <tr>
+      <th>2994</th>
+      <td>35</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>10.29</td>
+    </tr>
+    <tr>
+      <th>2995</th>
+      <td>35</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.27</td>
     </tr>
   </tbody>
 </table>
@@ -2338,52 +10738,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>935</th>
+      <th>852</th>
       <td>36</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.129</td>
+      <td>10.26</td>
     </tr>
     <tr>
-      <th>956</th>
+      <th>853</th>
       <td>36</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>16.600</td>
+      <td>14.66</td>
     </tr>
     <tr>
-      <th>2007</th>
+      <th>854</th>
+      <td>36</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.25</td>
+    </tr>
+    <tr>
+      <th>855</th>
+      <td>36</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.86</td>
+    </tr>
+    <tr>
+      <th>856</th>
+      <td>36</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.55</td>
+    </tr>
+    <tr>
+      <th>857</th>
+      <td>36</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>56.30</td>
+    </tr>
+    <tr>
+      <th>858</th>
+      <td>36</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>59.86</td>
+    </tr>
+    <tr>
+      <th>859</th>
+      <td>36</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.10</td>
+    </tr>
+    <tr>
+      <th>860</th>
+      <td>36</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>40.42</td>
+    </tr>
+    <tr>
+      <th>861</th>
+      <td>36</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.03</td>
+    </tr>
+    <tr>
+      <th>862</th>
+      <td>36</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>9.00</td>
+    </tr>
+    <tr>
+      <th>863</th>
+      <td>36</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.16</td>
+    </tr>
+    <tr>
+      <th>1924</th>
       <td>36</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>8.179</td>
+      <td>13.77</td>
     </tr>
     <tr>
-      <th>2028</th>
+      <th>1925</th>
       <td>36</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>14.14</td>
     </tr>
     <tr>
-      <th>3079</th>
+      <th>1926</th>
+      <td>36</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.10</td>
+    </tr>
+    <tr>
+      <th>1927</th>
+      <td>36</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.77</td>
+    </tr>
+    <tr>
+      <th>1928</th>
+      <td>36</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>43.39</td>
+    </tr>
+    <tr>
+      <th>1929</th>
+      <td>36</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>57.60</td>
+    </tr>
+    <tr>
+      <th>1930</th>
+      <td>36</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>60.03</td>
+    </tr>
+    <tr>
+      <th>1931</th>
+      <td>36</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>58.25</td>
+    </tr>
+    <tr>
+      <th>1932</th>
+      <td>36</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>40.29</td>
+    </tr>
+    <tr>
+      <th>1933</th>
+      <td>36</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>33.43</td>
+    </tr>
+    <tr>
+      <th>1934</th>
+      <td>36</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.79</td>
+    </tr>
+    <tr>
+      <th>1935</th>
+      <td>36</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>5.13</td>
+    </tr>
+    <tr>
+      <th>2996</th>
       <td>36</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>17.670</td>
+      <td>17.67</td>
     </tr>
     <tr>
-      <th>3100</th>
+      <th>2997</th>
       <td>36</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>31.040</td>
+      <td>23.81</td>
+    </tr>
+    <tr>
+      <th>2998</th>
+      <td>36</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.44</td>
+    </tr>
+    <tr>
+      <th>2999</th>
+      <td>36</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>47.35</td>
+    </tr>
+    <tr>
+      <th>3000</th>
+      <td>36</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>55.26</td>
+    </tr>
+    <tr>
+      <th>3001</th>
+      <td>36</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>59.32</td>
+    </tr>
+    <tr>
+      <th>3002</th>
+      <td>36</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>60.58</td>
+    </tr>
+    <tr>
+      <th>3003</th>
+      <td>36</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>52.92</td>
+    </tr>
+    <tr>
+      <th>3004</th>
+      <td>36</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.16</td>
+    </tr>
+    <tr>
+      <th>3005</th>
+      <td>36</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.19</td>
+    </tr>
+    <tr>
+      <th>3006</th>
+      <td>36</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>15.92</td>
+    </tr>
+    <tr>
+      <th>3007</th>
+      <td>36</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.00</td>
     </tr>
   </tbody>
 </table>
@@ -2404,52 +11044,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>936</th>
+      <th>864</th>
       <td>37</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>5.480</td>
+      <td>8.46</td>
     </tr>
     <tr>
-      <th>957</th>
+      <th>865</th>
       <td>37</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.000</td>
+      <td>10.75</td>
     </tr>
     <tr>
-      <th>2008</th>
+      <th>866</th>
+      <td>37</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.55</td>
+    </tr>
+    <tr>
+      <th>867</th>
+      <td>37</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.28</td>
+    </tr>
+    <tr>
+      <th>868</th>
+      <td>37</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.38</td>
+    </tr>
+    <tr>
+      <th>869</th>
+      <td>37</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.83</td>
+    </tr>
+    <tr>
+      <th>870</th>
+      <td>37</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.98</td>
+    </tr>
+    <tr>
+      <th>871</th>
+      <td>37</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.09</td>
+    </tr>
+    <tr>
+      <th>872</th>
+      <td>37</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>30.17</td>
+    </tr>
+    <tr>
+      <th>873</th>
+      <td>37</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>24.37</td>
+    </tr>
+    <tr>
+      <th>874</th>
+      <td>37</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>9.38</td>
+    </tr>
+    <tr>
+      <th>875</th>
+      <td>37</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.78</td>
+    </tr>
+    <tr>
+      <th>1936</th>
       <td>37</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>5.663</td>
+      <td>10.44</td>
     </tr>
     <tr>
-      <th>2029</th>
+      <th>1937</th>
       <td>37</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>10.98</td>
     </tr>
     <tr>
-      <th>3080</th>
+      <th>1938</th>
+      <td>37</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.39</td>
+    </tr>
+    <tr>
+      <th>1939</th>
+      <td>37</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.82</td>
+    </tr>
+    <tr>
+      <th>1940</th>
+      <td>37</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.41</td>
+    </tr>
+    <tr>
+      <th>1941</th>
+      <td>37</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.62</td>
+    </tr>
+    <tr>
+      <th>1942</th>
+      <td>37</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>46.52</td>
+    </tr>
+    <tr>
+      <th>1943</th>
+      <td>37</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>44.84</td>
+    </tr>
+    <tr>
+      <th>1944</th>
+      <td>37</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>31.18</td>
+    </tr>
+    <tr>
+      <th>1945</th>
+      <td>37</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>26.73</td>
+    </tr>
+    <tr>
+      <th>1946</th>
+      <td>37</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>8.70</td>
+    </tr>
+    <tr>
+      <th>1947</th>
+      <td>37</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.80</td>
+    </tr>
+    <tr>
+      <th>3008</th>
       <td>37</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>13.371</td>
+      <td>13.37</td>
     </tr>
     <tr>
-      <th>3101</th>
+      <th>3009</th>
       <td>37</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>24.260</td>
+      <td>18.47</td>
+    </tr>
+    <tr>
+      <th>3010</th>
+      <td>37</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.33</td>
+    </tr>
+    <tr>
+      <th>3011</th>
+      <td>37</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>36.99</td>
+    </tr>
+    <tr>
+      <th>3012</th>
+      <td>37</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>43.08</td>
+    </tr>
+    <tr>
+      <th>3013</th>
+      <td>37</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>46.24</td>
+    </tr>
+    <tr>
+      <th>3014</th>
+      <td>37</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>47.17</td>
+    </tr>
+    <tr>
+      <th>3015</th>
+      <td>37</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>41.01</td>
+    </tr>
+    <tr>
+      <th>3016</th>
+      <td>37</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.05</td>
+    </tr>
+    <tr>
+      <th>3017</th>
+      <td>37</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.25</td>
+    </tr>
+    <tr>
+      <th>3018</th>
+      <td>37</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>12.27</td>
+    </tr>
+    <tr>
+      <th>3019</th>
+      <td>37</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>10.20</td>
     </tr>
   </tbody>
 </table>
@@ -2470,52 +11350,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>937</th>
+      <th>876</th>
       <td>38</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>5.000</td>
+      <td>7.75</td>
     </tr>
     <tr>
-      <th>958</th>
+      <th>877</th>
       <td>38</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>8.330</td>
+      <td>10.10</td>
     </tr>
     <tr>
-      <th>2009</th>
+      <th>878</th>
+      <td>38</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.45</td>
+    </tr>
+    <tr>
+      <th>879</th>
+      <td>38</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.18</td>
+    </tr>
+    <tr>
+      <th>880</th>
+      <td>38</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.59</td>
+    </tr>
+    <tr>
+      <th>881</th>
+      <td>38</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.78</td>
+    </tr>
+    <tr>
+      <th>882</th>
+      <td>38</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.48</td>
+    </tr>
+    <tr>
+      <th>883</th>
+      <td>38</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>33.81</td>
+    </tr>
+    <tr>
+      <th>884</th>
+      <td>38</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.34</td>
+    </tr>
+    <tr>
+      <th>885</th>
+      <td>38</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>19.97</td>
+    </tr>
+    <tr>
+      <th>886</th>
+      <td>38</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.98</td>
+    </tr>
+    <tr>
+      <th>887</th>
+      <td>38</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>3.19</td>
+    </tr>
+    <tr>
+      <th>1948</th>
       <td>38</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>5.200</td>
+      <td>8.35</td>
     </tr>
     <tr>
-      <th>2030</th>
+      <th>1949</th>
       <td>38</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>8.80</td>
     </tr>
     <tr>
-      <th>3081</th>
+      <th>1950</th>
+      <td>38</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.86</td>
+    </tr>
+    <tr>
+      <th>1951</th>
+      <td>38</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>22.33</td>
+    </tr>
+    <tr>
+      <th>1952</th>
+      <td>38</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>28.42</td>
+    </tr>
+    <tr>
+      <th>1953</th>
+      <td>38</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>35.83</td>
+    </tr>
+    <tr>
+      <th>1954</th>
+      <td>38</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>37.36</td>
+    </tr>
+    <tr>
+      <th>1955</th>
+      <td>38</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>36.00</td>
+    </tr>
+    <tr>
+      <th>1956</th>
+      <td>38</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.02</td>
+    </tr>
+    <tr>
+      <th>1957</th>
+      <td>38</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>19.61</td>
+    </tr>
+    <tr>
+      <th>1958</th>
+      <td>38</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>6.94</td>
+    </tr>
+    <tr>
+      <th>1959</th>
+      <td>38</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>3.26</td>
+    </tr>
+    <tr>
+      <th>3020</th>
       <td>38</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>10.701</td>
+      <td>10.70</td>
     </tr>
     <tr>
-      <th>3102</th>
+      <th>3021</th>
       <td>38</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>19.640</td>
+      <td>14.80</td>
+    </tr>
+    <tr>
+      <th>3022</th>
+      <td>38</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.32</td>
+    </tr>
+    <tr>
+      <th>3023</th>
+      <td>38</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>29.68</td>
+    </tr>
+    <tr>
+      <th>3024</th>
+      <td>38</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>34.58</td>
+    </tr>
+    <tr>
+      <th>3025</th>
+      <td>38</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.13</td>
+    </tr>
+    <tr>
+      <th>3026</th>
+      <td>38</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.89</td>
+    </tr>
+    <tr>
+      <th>3027</th>
+      <td>38</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>32.93</td>
+    </tr>
+    <tr>
+      <th>3028</th>
+      <td>38</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.92</td>
+    </tr>
+    <tr>
+      <th>3029</th>
+      <td>38</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>18.65</td>
+    </tr>
+    <tr>
+      <th>3030</th>
+      <td>38</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.83</td>
+    </tr>
+    <tr>
+      <th>3031</th>
+      <td>38</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>8.16</td>
     </tr>
   </tbody>
 </table>
@@ -2536,52 +11656,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>938</th>
+      <th>888</th>
       <td>39</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>3.69</td>
+      <td>4.94</td>
     </tr>
     <tr>
-      <th>959</th>
+      <th>889</th>
       <td>39</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>6.93</td>
+      <td>6.11</td>
     </tr>
     <tr>
-      <th>2010</th>
+      <th>890</th>
+      <td>39</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>17.30</td>
+    </tr>
+    <tr>
+      <th>891</th>
+      <td>39</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>16.52</td>
+    </tr>
+    <tr>
+      <th>892</th>
+      <td>39</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>21.60</td>
+    </tr>
+    <tr>
+      <th>893</th>
+      <td>39</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>26.30</td>
+    </tr>
+    <tr>
+      <th>894</th>
+      <td>39</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.93</td>
+    </tr>
+    <tr>
+      <th>895</th>
+      <td>39</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.08</td>
+    </tr>
+    <tr>
+      <th>896</th>
+      <td>39</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>18.05</td>
+    </tr>
+    <tr>
+      <th>897</th>
+      <td>39</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.77</td>
+    </tr>
+    <tr>
+      <th>898</th>
+      <td>39</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.89</td>
+    </tr>
+    <tr>
+      <th>899</th>
+      <td>39</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>2.73</td>
+    </tr>
+    <tr>
+      <th>1960</th>
       <td>39</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>3.64</td>
+      <td>5.99</td>
     </tr>
     <tr>
-      <th>2031</th>
+      <th>1961</th>
       <td>39</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
-      <td>NaN</td>
+      <td>6.35</td>
     </tr>
     <tr>
-      <th>3082</th>
+      <th>1962</th>
+      <td>39</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.78</td>
+    </tr>
+    <tr>
+      <th>1963</th>
+      <td>39</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>15.78</td>
+    </tr>
+    <tr>
+      <th>1964</th>
+      <td>39</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>20.10</td>
+    </tr>
+    <tr>
+      <th>1965</th>
+      <td>39</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.25</td>
+    </tr>
+    <tr>
+      <th>1966</th>
+      <td>39</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>27.55</td>
+    </tr>
+    <tr>
+      <th>1967</th>
+      <td>39</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>25.34</td>
+    </tr>
+    <tr>
+      <th>1968</th>
+      <td>39</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>17.70</td>
+    </tr>
+    <tr>
+      <th>1969</th>
+      <td>39</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>11.65</td>
+    </tr>
+    <tr>
+      <th>1970</th>
+      <td>39</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>5.95</td>
+    </tr>
+    <tr>
+      <th>1971</th>
+      <td>39</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>2.79</td>
+    </tr>
+    <tr>
+      <th>3032</th>
       <td>39</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>7.68</td>
     </tr>
     <tr>
-      <th>3103</th>
+      <th>3033</th>
       <td>39</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
-      <td>13.38</td>
+      <td>10.67</td>
+    </tr>
+    <tr>
+      <th>3034</th>
+      <td>39</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>17.48</td>
+    </tr>
+    <tr>
+      <th>3035</th>
+      <td>39</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>20.98</td>
+    </tr>
+    <tr>
+      <th>3036</th>
+      <td>39</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>24.46</td>
+    </tr>
+    <tr>
+      <th>3037</th>
+      <td>39</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.16</td>
+    </tr>
+    <tr>
+      <th>3038</th>
+      <td>39</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.51</td>
+    </tr>
+    <tr>
+      <th>3039</th>
+      <td>39</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.18</td>
+    </tr>
+    <tr>
+      <th>3040</th>
+      <td>39</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>17.63</td>
+    </tr>
+    <tr>
+      <th>3041</th>
+      <td>39</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.36</td>
+    </tr>
+    <tr>
+      <th>3042</th>
+      <td>39</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>7.02</td>
+    </tr>
+    <tr>
+      <th>3043</th>
+      <td>39</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>5.83</td>
     </tr>
   </tbody>
 </table>
@@ -2602,52 +11962,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>939</th>
+      <th>1049</th>
       <td>40</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>15.43</td>
+      <td>24.05</td>
     </tr>
     <tr>
-      <th>992</th>
+      <th>1051</th>
       <td>40</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>29.63</td>
+      <td>28.01</td>
     </tr>
     <tr>
-      <th>2011</th>
+      <th>1053</th>
+      <td>40</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>60.29</td>
+    </tr>
+    <tr>
+      <th>1055</th>
+      <td>40</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>58.50</td>
+    </tr>
+    <tr>
+      <th>1057</th>
+      <td>40</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>76.80</td>
+    </tr>
+    <tr>
+      <th>1059</th>
+      <td>40</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>95.48</td>
+    </tr>
+    <tr>
+      <th>1061</th>
+      <td>40</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>97.13</td>
+    </tr>
+    <tr>
+      <th>1063</th>
+      <td>40</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>94.07</td>
+    </tr>
+    <tr>
+      <th>1065</th>
+      <td>40</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>67.33</td>
+    </tr>
+    <tr>
+      <th>1067</th>
+      <td>40</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>51.47</td>
+    </tr>
+    <tr>
+      <th>1069</th>
+      <td>40</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.33</td>
+    </tr>
+    <tr>
+      <th>1071</th>
+      <td>40</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.91</td>
+    </tr>
+    <tr>
+      <th>2121</th>
       <td>40</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>2064</th>
+      <th>2123</th>
       <td>40</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3083</th>
+      <th>2125</th>
+      <td>40</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2127</th>
+      <td>40</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2129</th>
+      <td>40</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2131</th>
+      <td>40</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2133</th>
+      <td>40</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2135</th>
+      <td>40</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2137</th>
+      <td>40</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2139</th>
+      <td>40</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2141</th>
+      <td>40</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2143</th>
+      <td>40</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3193</th>
       <td>40</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>34.56</td>
     </tr>
     <tr>
-      <th>3136</th>
+      <th>3195</th>
       <td>40</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>46.56</td>
+    </tr>
+    <tr>
+      <th>3197</th>
+      <td>40</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>61.67</td>
+    </tr>
+    <tr>
+      <th>3199</th>
+      <td>40</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>69.62</td>
+    </tr>
+    <tr>
+      <th>3201</th>
+      <td>40</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>81.59</td>
+    </tr>
+    <tr>
+      <th>3203</th>
+      <td>40</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>86.12</td>
+    </tr>
+    <tr>
+      <th>3205</th>
+      <td>40</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>87.69</td>
+    </tr>
+    <tr>
+      <th>3207</th>
+      <td>40</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>77.08</td>
+    </tr>
+    <tr>
+      <th>3209</th>
+      <td>40</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>64.07</td>
+    </tr>
+    <tr>
+      <th>3211</th>
+      <td>40</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.96</td>
+    </tr>
+    <tr>
+      <th>3213</th>
+      <td>40</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.97</td>
+    </tr>
+    <tr>
+      <th>3215</th>
+      <td>40</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.84</td>
     </tr>
   </tbody>
 </table>
@@ -2668,52 +12268,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>940</th>
+      <th>1048</th>
       <td>41</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>7.31</td>
+      <td>9.99</td>
     </tr>
     <tr>
-      <th>993</th>
+      <th>1050</th>
       <td>41</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>14.05</td>
+      <td>10.42</td>
     </tr>
     <tr>
-      <th>2012</th>
+      <th>1052</th>
+      <td>41</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>13.07</td>
+    </tr>
+    <tr>
+      <th>1054</th>
+      <td>41</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.77</td>
+    </tr>
+    <tr>
+      <th>1056</th>
+      <td>41</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>36.05</td>
+    </tr>
+    <tr>
+      <th>1058</th>
+      <td>41</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.49</td>
+    </tr>
+    <tr>
+      <th>1060</th>
+      <td>41</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>46.09</td>
+    </tr>
+    <tr>
+      <th>1062</th>
+      <td>41</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>44.31</td>
+    </tr>
+    <tr>
+      <th>1064</th>
+      <td>41</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>29.90</td>
+    </tr>
+    <tr>
+      <th>1066</th>
+      <td>41</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>23.90</td>
+    </tr>
+    <tr>
+      <th>1068</th>
+      <td>41</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.73</td>
+    </tr>
+    <tr>
+      <th>1070</th>
+      <td>41</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.27</td>
+    </tr>
+    <tr>
+      <th>2120</th>
       <td>41</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>2065</th>
+      <th>2122</th>
       <td>41</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3084</th>
+      <th>2124</th>
+      <td>41</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2126</th>
+      <td>41</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2128</th>
+      <td>41</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2130</th>
+      <td>41</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2132</th>
+      <td>41</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2134</th>
+      <td>41</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2136</th>
+      <td>41</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2138</th>
+      <td>41</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2140</th>
+      <td>41</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2142</th>
+      <td>41</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3192</th>
       <td>41</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>13.03</td>
     </tr>
     <tr>
-      <th>3137</th>
+      <th>3194</th>
       <td>41</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>18.68</td>
+    </tr>
+    <tr>
+      <th>3196</th>
+      <td>41</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.72</td>
+    </tr>
+    <tr>
+      <th>3198</th>
+      <td>41</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.86</td>
+    </tr>
+    <tr>
+      <th>3200</th>
+      <td>41</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.36</td>
+    </tr>
+    <tr>
+      <th>3202</th>
+      <td>41</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.71</td>
+    </tr>
+    <tr>
+      <th>3204</th>
+      <td>41</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.65</td>
+    </tr>
+    <tr>
+      <th>3206</th>
+      <td>41</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.10</td>
+    </tr>
+    <tr>
+      <th>3208</th>
+      <td>41</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>30.58</td>
+    </tr>
+    <tr>
+      <th>3210</th>
+      <td>41</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>22.46</td>
+    </tr>
+    <tr>
+      <th>3212</th>
+      <td>41</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.88</td>
+    </tr>
+    <tr>
+      <th>3214</th>
+      <td>41</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>10.93</td>
     </tr>
   </tbody>
 </table>
@@ -2734,52 +12574,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>951</th>
+      <th>1000</th>
       <td>42</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>4.96</td>
+      <td>7.81</td>
     </tr>
     <tr>
-      <th>988</th>
+      <th>1001</th>
       <td>42</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>9.61</td>
+      <td>7.83</td>
     </tr>
     <tr>
-      <th>2023</th>
+      <th>1002</th>
+      <td>42</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.51</td>
+    </tr>
+    <tr>
+      <th>1003</th>
+      <td>42</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>20.54</td>
+    </tr>
+    <tr>
+      <th>1004</th>
+      <td>42</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>22.49</td>
+    </tr>
+    <tr>
+      <th>1005</th>
+      <td>42</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>26.63</td>
+    </tr>
+    <tr>
+      <th>1006</th>
+      <td>42</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>32.37</td>
+    </tr>
+    <tr>
+      <th>1007</th>
+      <td>42</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>30.46</td>
+    </tr>
+    <tr>
+      <th>1008</th>
+      <td>42</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.25</td>
+    </tr>
+    <tr>
+      <th>1009</th>
+      <td>42</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>7.46</td>
+    </tr>
+    <tr>
+      <th>1010</th>
+      <td>42</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>5.91</td>
+    </tr>
+    <tr>
+      <th>1011</th>
+      <td>42</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>4.38</td>
+    </tr>
+    <tr>
+      <th>2072</th>
       <td>42</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>4.46</td>
-    </tr>
-    <tr>
-      <th>2060</th>
-      <td>42</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3095</th>
+      <th>2073</th>
+      <td>42</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2074</th>
+      <td>42</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2075</th>
+      <td>42</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2076</th>
+      <td>42</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2077</th>
+      <td>42</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2078</th>
+      <td>42</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2079</th>
+      <td>42</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2080</th>
+      <td>42</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2081</th>
+      <td>42</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2082</th>
+      <td>42</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2083</th>
+      <td>42</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3144</th>
       <td>42</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>6.40</td>
     </tr>
     <tr>
-      <th>3132</th>
+      <th>3145</th>
       <td>42</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>12.72</td>
+    </tr>
+    <tr>
+      <th>3146</th>
+      <td>42</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>19.70</td>
+    </tr>
+    <tr>
+      <th>3147</th>
+      <td>42</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.49</td>
+    </tr>
+    <tr>
+      <th>3148</th>
+      <td>42</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>26.16</td>
+    </tr>
+    <tr>
+      <th>3149</th>
+      <td>42</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>27.53</td>
+    </tr>
+    <tr>
+      <th>3150</th>
+      <td>42</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.18</td>
+    </tr>
+    <tr>
+      <th>3151</th>
+      <td>42</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>25.80</td>
+    </tr>
+    <tr>
+      <th>3152</th>
+      <td>42</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>21.78</td>
+    </tr>
+    <tr>
+      <th>3153</th>
+      <td>42</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.50</td>
+    </tr>
+    <tr>
+      <th>3154</th>
+      <td>42</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>9.53</td>
+    </tr>
+    <tr>
+      <th>3155</th>
+      <td>42</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>7.23</td>
     </tr>
   </tbody>
 </table>
@@ -2800,52 +12880,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>952</th>
+      <th>1012</th>
       <td>43</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>6.80</td>
+      <td>10.37</td>
     </tr>
     <tr>
-      <th>989</th>
+      <th>1013</th>
       <td>43</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>13.22</td>
+      <td>10.50</td>
     </tr>
     <tr>
-      <th>2024</th>
+      <th>1014</th>
+      <td>43</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>27.98</td>
+    </tr>
+    <tr>
+      <th>1015</th>
+      <td>43</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>28.39</td>
+    </tr>
+    <tr>
+      <th>1016</th>
+      <td>43</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>35.48</td>
+    </tr>
+    <tr>
+      <th>1017</th>
+      <td>43</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>37.08</td>
+    </tr>
+    <tr>
+      <th>1018</th>
+      <td>43</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>45.33</td>
+    </tr>
+    <tr>
+      <th>1019</th>
+      <td>43</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.42</td>
+    </tr>
+    <tr>
+      <th>1020</th>
+      <td>43</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>30.04</td>
+    </tr>
+    <tr>
+      <th>1021</th>
+      <td>43</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>25.22</td>
+    </tr>
+    <tr>
+      <th>1022</th>
+      <td>43</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>8.54</td>
+    </tr>
+    <tr>
+      <th>1023</th>
+      <td>43</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>6.76</td>
+    </tr>
+    <tr>
+      <th>2084</th>
       <td>43</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>6.45</td>
-    </tr>
-    <tr>
-      <th>2061</th>
-      <td>43</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3096</th>
+      <th>2085</th>
+      <td>43</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2086</th>
+      <td>43</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2087</th>
+      <td>43</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2088</th>
+      <td>43</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2089</th>
+      <td>43</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2090</th>
+      <td>43</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2091</th>
+      <td>43</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2092</th>
+      <td>43</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2093</th>
+      <td>43</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2094</th>
+      <td>43</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2095</th>
+      <td>43</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3156</th>
       <td>43</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>9.19</td>
     </tr>
     <tr>
-      <th>3133</th>
+      <th>3157</th>
       <td>43</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>19.68</td>
+    </tr>
+    <tr>
+      <th>3158</th>
+      <td>43</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>28.23</td>
+    </tr>
+    <tr>
+      <th>3159</th>
+      <td>43</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>33.64</td>
+    </tr>
+    <tr>
+      <th>3160</th>
+      <td>43</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.57</td>
+    </tr>
+    <tr>
+      <th>3161</th>
+      <td>43</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>39.61</td>
+    </tr>
+    <tr>
+      <th>3162</th>
+      <td>43</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.69</td>
+    </tr>
+    <tr>
+      <th>3163</th>
+      <td>43</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.16</td>
+    </tr>
+    <tr>
+      <th>3164</th>
+      <td>43</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>31.37</td>
+    </tr>
+    <tr>
+      <th>3165</th>
+      <td>43</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.74</td>
+    </tr>
+    <tr>
+      <th>3166</th>
+      <td>43</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>13.61</td>
+    </tr>
+    <tr>
+      <th>3167</th>
+      <td>43</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>10.31</td>
     </tr>
   </tbody>
 </table>
@@ -2866,52 +13186,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>953</th>
+      <th>1024</th>
       <td>44</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>10.98</td>
+      <td>17.27</td>
     </tr>
     <tr>
-      <th>990</th>
+      <th>1025</th>
       <td>44</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>23.12</td>
+      <td>18.53</td>
     </tr>
     <tr>
-      <th>2025</th>
+      <th>1026</th>
+      <td>44</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.80</td>
+    </tr>
+    <tr>
+      <th>1027</th>
+      <td>44</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.30</td>
+    </tr>
+    <tr>
+      <th>1028</th>
+      <td>44</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>61.50</td>
+    </tr>
+    <tr>
+      <th>1029</th>
+      <td>44</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>73.55</td>
+    </tr>
+    <tr>
+      <th>1030</th>
+      <td>44</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>77.00</td>
+    </tr>
+    <tr>
+      <th>1031</th>
+      <td>44</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>72.42</td>
+    </tr>
+    <tr>
+      <th>1032</th>
+      <td>44</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>51.19</td>
+    </tr>
+    <tr>
+      <th>1033</th>
+      <td>44</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>42.65</td>
+    </tr>
+    <tr>
+      <th>1034</th>
+      <td>44</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>14.04</td>
+    </tr>
+    <tr>
+      <th>1035</th>
+      <td>44</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>11.35</td>
+    </tr>
+    <tr>
+      <th>2096</th>
       <td>44</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>11.57</td>
-    </tr>
-    <tr>
-      <th>2062</th>
-      <td>44</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3097</th>
+      <th>2097</th>
+      <td>44</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2098</th>
+      <td>44</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2099</th>
+      <td>44</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2100</th>
+      <td>44</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2101</th>
+      <td>44</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2102</th>
+      <td>44</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2103</th>
+      <td>44</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2104</th>
+      <td>44</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2105</th>
+      <td>44</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2106</th>
+      <td>44</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2107</th>
+      <td>44</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3168</th>
       <td>44</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>15.90</td>
     </tr>
     <tr>
-      <th>3134</th>
+      <th>3169</th>
       <td>44</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>33.12</td>
+    </tr>
+    <tr>
+      <th>3170</th>
+      <td>44</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>48.50</td>
+    </tr>
+    <tr>
+      <th>3171</th>
+      <td>44</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>58.82</td>
+    </tr>
+    <tr>
+      <th>3172</th>
+      <td>44</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>66.58</td>
+    </tr>
+    <tr>
+      <th>3173</th>
+      <td>44</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>70.48</td>
+    </tr>
+    <tr>
+      <th>3174</th>
+      <td>44</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>72.38</td>
+    </tr>
+    <tr>
+      <th>3175</th>
+      <td>44</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>65.27</td>
+    </tr>
+    <tr>
+      <th>3176</th>
+      <td>44</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>54.01</td>
+    </tr>
+    <tr>
+      <th>3177</th>
+      <td>44</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>40.24</td>
+    </tr>
+    <tr>
+      <th>3178</th>
+      <td>44</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>23.21</td>
+    </tr>
+    <tr>
+      <th>3179</th>
+      <td>44</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>17.68</td>
     </tr>
   </tbody>
 </table>
@@ -2932,52 +13492,292 @@
   </thead>
   <tbody>
     <tr>
-      <th>954</th>
+      <th>1036</th>
       <td>45</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>10.67</td>
+      <td>16.78</td>
     </tr>
     <tr>
-      <th>991</th>
+      <th>1037</th>
       <td>45</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>MW_gen</td>
-      <td>22.32</td>
+      <td>18.10</td>
     </tr>
     <tr>
-      <th>2026</th>
+      <th>1038</th>
+      <td>45</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.29</td>
+    </tr>
+    <tr>
+      <th>1039</th>
+      <td>45</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>47.84</td>
+    </tr>
+    <tr>
+      <th>1040</th>
+      <td>45</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>58.78</td>
+    </tr>
+    <tr>
+      <th>1041</th>
+      <td>45</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>70.59</td>
+    </tr>
+    <tr>
+      <th>1042</th>
+      <td>45</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>74.24</td>
+    </tr>
+    <tr>
+      <th>1043</th>
+      <td>45</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>69.79</td>
+    </tr>
+    <tr>
+      <th>1044</th>
+      <td>45</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>49.70</td>
+    </tr>
+    <tr>
+      <th>1045</th>
+      <td>45</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>41.80</td>
+    </tr>
+    <tr>
+      <th>1046</th>
+      <td>45</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.04</td>
+    </tr>
+    <tr>
+      <th>1047</th>
+      <td>45</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>MW_gen</td>
+      <td>10.79</td>
+    </tr>
+    <tr>
+      <th>2108</th>
       <td>45</td>
       <td>1</td>
-      <td>2020</td>
-      <td>weather_adj</td>
-      <td>10.87</td>
-    </tr>
-    <tr>
-      <th>2063</th>
-      <td>45</td>
-      <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>weather_adj</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3098</th>
+      <th>2109</th>
+      <td>45</td>
+      <td>2</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2110</th>
+      <td>45</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2111</th>
+      <td>45</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2112</th>
+      <td>45</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2113</th>
+      <td>45</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2114</th>
+      <td>45</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2115</th>
+      <td>45</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2116</th>
+      <td>45</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2117</th>
+      <td>45</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2118</th>
+      <td>45</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2119</th>
+      <td>45</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>weather_adj</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3180</th>
       <td>45</td>
       <td>1</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>14.64</td>
     </tr>
     <tr>
-      <th>3135</th>
+      <th>3181</th>
       <td>45</td>
       <td>2</td>
-      <td>2020</td>
+      <td>2019</td>
       <td>pv_syst</td>
       <td>31.42</td>
+    </tr>
+    <tr>
+      <th>3182</th>
+      <td>45</td>
+      <td>3</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>45.33</td>
+    </tr>
+    <tr>
+      <th>3183</th>
+      <td>45</td>
+      <td>4</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>54.39</td>
+    </tr>
+    <tr>
+      <th>3184</th>
+      <td>45</td>
+      <td>5</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>60.71</td>
+    </tr>
+    <tr>
+      <th>3185</th>
+      <td>45</td>
+      <td>6</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>62.92</td>
+    </tr>
+    <tr>
+      <th>3186</th>
+      <td>45</td>
+      <td>7</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>65.46</td>
+    </tr>
+    <tr>
+      <th>3187</th>
+      <td>45</td>
+      <td>8</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>59.82</td>
+    </tr>
+    <tr>
+      <th>3188</th>
+      <td>45</td>
+      <td>9</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>50.39</td>
+    </tr>
+    <tr>
+      <th>3189</th>
+      <td>45</td>
+      <td>10</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>37.98</td>
+    </tr>
+    <tr>
+      <th>3190</th>
+      <td>45</td>
+      <td>11</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>21.79</td>
+    </tr>
+    <tr>
+      <th>3191</th>
+      <td>45</td>
+      <td>12</td>
+      <td>2019</td>
+      <td>pv_syst</td>
+      <td>16.45</td>
     </tr>
   </tbody>
 </table>
